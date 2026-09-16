@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TopicTrap
 
 TopicTrap is a simple speech-topic practice app.
@@ -50,3 +51,6 @@ npm run dev
 ```
 
 Frontend: `http://localhost:3000`
+=======
+# TopicTrap
+>>>>>>> 1e6fa0af3b6485ae4e7e3386526614d8578ea44f
