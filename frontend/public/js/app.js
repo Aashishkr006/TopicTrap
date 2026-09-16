@@ -10,7 +10,10 @@ window.addEventListener('auth:changed', () => {
   loadStreak();
 });
 
-const API = window.location.port === '3000' ? 'http://localhost:5000/api' : '/api';
+// const API = window.location.port === '3000' ? 'http://localhost:5000/api' : '/api';
+const API = window.location.hostname === 'localhost'
+  ? 'http://localhost:5000/api'
+  : 'https://topictrap-api-hvdcfmdxhvh4e8dk.centralindia-01.azurewebsites.net/api';
 let currentTopic = null;
 let currentMode = 'TopicTrap';
 let timerInterval = null;
