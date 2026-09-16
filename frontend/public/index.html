@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TopicTrap — Speech Topic Generator</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet" />
+  
+  <script
+  defer
+  crossorigin="anonymous"
+  src="https://legible-antelope-1094.clerk.accounts.dev/npm/@clerk/ui@1/dist/ui.browser.js"
+  type="text/javascript">
+  </script>
+
+<script
+  defer
+  crossorigin="anonymous"
+  data-clerk-publishable-key="pk_test_bGVnaWJsZS1hbnRlbG9wZS0xMDk0LmNsZXJrLmFjY291bnRzLmRldiQ"
+  src="https://legible-antelope-1094.clerk.accounts.dev/npm/@clerk/clerk-js@6/dist/clerk.browser.js"
+  type="text/javascript">
+</script>
+
+<link rel="stylesheet" href="./css/style.css">
+  
+  <link rel="stylesheet" href="./css/style.css" />
+  <script src="./js/auth.js" defer></script>
+  <script src="./js/app.js" defer></script>
+
+</head>
+<body>
+
+<div class="container">
+  <header>
+  <div class="logo">
+    <span class="logo-word">TopicTrap</span>
+    <div class="logo-dot"></div>
+  </div>
+
+  <nav>
+    <div id="auth-container"></div>
+  </nav>
+</header>
+
+  <!-- MODE TABS -->
+  <div class="mode-tabs">
+    <button class="mode-tab active" onclick="setMode('TopicTrap')" id="tab-TopicTrap">
+      <span class="tab-icon">🎙️</span>TopicTrap
+    </button>
+    <button class="mode-tab" onclick="setMode('interview')" id="tab-interview">
+      <span class="tab-icon">💼</span>Interview
+    </button>
+    <button class="mode-tab" onclick="setMode('vocab')" id="tab-vocab">
+      <span class="tab-icon">📚</span>Learn Vocab
+    </button>
+  </div>
+
+  <!-- MAIN VIEW -->
+  <div id="view-main" class="panel active">
+
+    <!-- STREAK -->
+    <div class="stats-row" id="stats-mini">
+      <div class="stat-card">
+        <div class="stat-number" id="stat-streak">0</div>
+        <div class="stat-label">🔥 Day Streak</div>
+      </div>
+    </div>
+
+    <!-- FILTERS -->
+    <div class="filters" id="filters-row">
+      <div class="filter-group">
+        <div class="filter-label">Language</div>
+        <select id="sel-lang" onchange="applyFilter()">
+          <option value="en">🇺🇸 English</option>
+          <option value="es">🇪🇸 Español</option>
+          <option value="fr">🇫🇷 Français</option>
+          <option value="de">🇩🇪 Deutsch</option>
+          <option value="zh">🇨🇳 中文</option>
+          <option value="it">🇮🇹 Italiano</option>
+          <option value="ar">🇸🇦 العربية</option>
+          <option value="pt">🇧🇷 Português</option>
+          <option value="ko">🇰🇷 한국어</option>
+          <option value="ja">🇯🇵 日本語</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <div class="filter-label">Difficulty</div>
+        <select id="sel-diff" onchange="applyFilter()">
+          <option value="random">🎲 Random</option>
+          <option value="easy">🟢 Easy</option>
+          <option value="medium">🟡 Medium</option>
+          <option value="hard">🔴 Hard</option>
+        </select>
+      </div>
+      <div class="filter-group" id="category-group">
+        <div class="filter-label">Category</div>
+        <select id="sel-cat" onchange="applyFilter()">
+          <option value="random">🎯 Random</option>
+        </select>
+      </div>
+    </div>
+
+    <!-- MAIN TOPIC CARD -->
+    <div class="main-card" id="main-card">
+      <div class="topic-label" id="topic-label">Ready to speak?</div>
+      <div class="topic-text" id="topic-text">Hit Spin to get your topic</div>
+      <div class="topic-meta" id="topic-meta"></div>
+      <div class="topic-hint" id="hint-example">
+        <div class="hint-label">Example Opening</div>
+        <div class="hint-text" id="hint-example-text"></div>
+      </div>
+      <div class="topic-hint" id="hint-angle" style="border-left-color: var(--accent3)">
+        <div class="hint-label" style="color:var(--accent3)">Speaking Angle</div>
+        <div class="hint-text" id="hint-angle-text"></div>
+      </div>
+    </div>
+
+    <!-- SPIN BUTTON -->
+    <div style="text-align:center; margin-bottom:20px;">
+      <button class="spin-btn" id="spin-btn" onclick="spinTopic()">⚡ Spin!</button>
+      <div class="sub-actions" style="margin-top:12px">
+        <button class="ghost-btn" onclick="toggleHint('example')" id="btn-example">💬 Example Opening</button>
+        <button class="ghost-btn" onclick="toggleHint('angle')" id="btn-angle">🎯 Speaking Angle</button>
+        <button class="ghost-btn" onclick="showSampleAnswer()">📖 Sample Answer</button>
+        <button class="ghost-btn" onclick="copyTopic()">📋 Copy</button>
+      </div>
+    </div>
+
+    <!-- TIMER -->
+    <div class="timer-section">
+      <div class="progress-ring-wrap">
+        <svg class="progress-ring" width="180" height="180" viewBox="0 0 180 180">
+          <circle class="progress-ring-bg" cx="90" cy="90" r="80"/>
+          <circle class="progress-ring-fill" id="ring-fill" cx="90" cy="90" r="80"/>
+        </svg>
+        <div class="progress-inner">
+          <div class="timer-display" id="timer-display">0:30</div>
+        </div>
+      </div>
+      <div class="timer-label" id="timer-label">Set your time</div>
+      <div class="timer-presets">
+        <button class="preset-btn active" onclick="setPreset(30)" id="preset-30">30s</button>
+        <button class="preset-btn" onclick="setPreset(60)" id="preset-60">1 min</button>
+        <button class="preset-btn" onclick="setPreset(120)" id="preset-120">2 min</button>
+        <button class="preset-btn" onclick="setPreset(180)" id="preset-180">3 min</button>
+      </div>
+      <div class="timer-controls">
+        <button class="timer-btn primary" id="timer-start-btn" onclick="startTimer()">▶ Start</button>
+        <button class="timer-btn" onclick="resetTimer()">↺ Reset</button>
+      </div>
+    </div>
+
+    <!-- FRAMEWORKS -->
+    <div class="section-title">Speaking Frameworks</div>
+    <div class="frameworks">
+      <div class="fw-card" id="fw-star" onclick="toggleFW('star')">
+        <div class="fw-name">STAR</div>
+        <div class="fw-desc">Situation → Task → Action → Result</div>
+        <div class="fw-expanded" id="fwe-star">
+          <div class="fw-item"><strong>S</strong> = Situation: Set the scene</div>
+          <div class="fw-item"><strong>T</strong> = Task: Your responsibility</div>
+          <div class="fw-item"><strong>A</strong> = Action: What you did</div>
+          <div class="fw-item"><strong>R</strong> = Result: The outcome</div>
+        </div>
+      </div>
+      <div class="fw-card" id="fw-prep" onclick="toggleFW('prep')">
+        <div class="fw-name">PREP</div>
+        <div class="fw-desc">Point → Reason → Example → Point</div>
+        <div class="fw-expanded" id="fwe-prep">
+          <div class="fw-item"><strong>P</strong> = Point: Your main claim</div>
+          <div class="fw-item"><strong>R</strong> = Reason: Why it's true</div>
+          <div class="fw-item"><strong>E</strong> = Example: Specific evidence</div>
+          <div class="fw-item"><strong>P</strong> = Point: Restate it strongly</div>
+        </div>
+      </div>
+      <div class="fw-card" id="fw-ppf" onclick="toggleFW('ppf')">
+        <div class="fw-name">PPF</div>
+        <div class="fw-desc">Past → Present → Future</div>
+        <div class="fw-expanded" id="fwe-ppf">
+          <div class="fw-item"><strong>P</strong> = Past: Where you've been</div>
+          <div class="fw-item"><strong>P</strong> = Present: Where you are</div>
+          <div class="fw-item"><strong>F</strong> = Future: Where you're headed</div>
+        </div>
+      </div>
+      <div class="fw-card" id="fw-mece" onclick="toggleFW('mece')">
+        <div class="fw-name">MECE</div>
+        <div class="fw-desc">Mutually Exclusive, Collectively Exhaustive</div>
+        <div class="fw-expanded" id="fwe-mece">
+          <div class="fw-item"><strong>1.</strong> Break into distinct categories</div>
+          <div class="fw-item"><strong>2.</strong> No overlaps between buckets</div>
+          <div class="fw-item"><strong>3.</strong> Nothing left out</div>
+          <div class="fw-item" style="margin-top:6px; color:var(--muted); font-size:12px">Best for case study questions</div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+<!-- SAMPLE ANSWER OVERLAY -->
+<div class="sample-overlay" id="sample-overlay" onclick="closeSampleAnswer(event)">
+  <div class="sample-modal" id="sample-modal">
+    <h3 id="sample-topic-heading">Sample Answer</h3>
+    <div id="sample-content">
+      <div class="sample-para" style="color:var(--muted); font-style:italic">Generating sample answer...</div>
+    </div>
+    <button class="close-modal" onclick="closeSampleAnswer()">Close</button>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+
+</body>
+</html>

@@ -1,0 +1,2882 @@
+[
+    {
+        "text": "What is one daily habit that drastically changed your productivity?",
+        "category": "general",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Waking up thirty minutes earlier gave me the quiet space I needed to organize my day.",
+        "speakingAngle": "Share a specific habit, describe the before-and-after contrast, and give actionable advice."
+    },
+    {
+        "text": "Should remote work remain a permanent option for all office jobs?",
+        "category": "general",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Remote work eliminates unnecessary commuting and allows people to design a balanced routine.",
+        "speakingAngle": "Weigh work-life flexibility against team collaboration and outline your personal stance."
+    },
+    {
+        "text": "Describe a book or movie that fundamentally altered your worldview.",
+        "category": "general",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Reading that novel helped me recognize empathy as an active choice rather than a passive trait.",
+        "speakingAngle": "Summarize the core message, identify your turning point, and explain its lasting influence."
+    },
+    {
+        "text": "Is learning a second language still essential in an era of instant AI translation?",
+        "category": "general",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Automated tools translate words, but cultural nuance and human connection still require personal effort.",
+        "speakingAngle": "Contrast pure communicative utility with cultural empathy and cognitive benefits."
+    },
+    {
+        "text": "How do childhood friendships differ fundamentally from adult friendships?",
+        "category": "general",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Proximity builds childhood bonds, whereas shared values sustain adult relationships.",
+        "speakingAngle": "Analyze how scheduling, geographic distance, and emotional maturity reshape connection."
+    },
+    {
+        "text": "Should traditional universities adapt their curriculum to focus strictly on career skills?",
+        "category": "general",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "A degree should offer practical employment preparation alongside foundational critical thinking.",
+        "speakingAngle": "Debate vocational utility versus holistic intellectual development."
+    },
+    {
+        "text": "Describe the most memorable trip you have ever taken and why it mattered.",
+        "category": "general",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Getting lost in the backstreets of Kyoto taught me how liberating uncertainty can be.",
+        "speakingAngle": "Use sensory storytelling to convey the setting and highlight a personal lesson."
+    },
+    {
+        "text": "Is public speaking an innate talent or a systematically learnable skill?",
+        "category": "general",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Natural charisma helps initially, but disciplined practice turns average speakers into great communicators.",
+        "speakingAngle": "Break down the core components of speaking and evaluate how training overcomes anxiety."
+    },
+    {
+        "text": "Does modern urbanization isolate people despite packing them closer together?",
+        "category": "general",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Living in a high-rise surrounded by thousands often feels lonelier than living in a quiet village.",
+        "speakingAngle": "Examine the psychological paradox of urban density and suggest ways to rebuild community."
+    },
+    {
+        "text": "What role should failure play in evaluating someone's long-term capability?",
+        "category": "general",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Recovering from a setback demonstrates resilience far better than uninterrupted success.",
+        "speakingAngle": "Argue why resilience and post-mortem reflection outweigh unbroken track records."
+    },
+    {
+        "text": "How can modern cities encourage healthier commuting alternatives like cycling and walking?",
+        "category": "general",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Dedicated bike lanes and wider pedestrian plazas make active transit safe and appealing.",
+        "speakingAngle": "Discuss urban design, environmental benefits, and civic incentives."
+    },
+    {
+        "text": "Is culinary tradition something to strictly preserve or continuously reinvent?",
+        "category": "general",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Fusion cooking honors traditional heritage while introducing exciting new flavor profiles.",
+        "speakingAngle": "Balance respect for heritage against the creative momentum of modern cooking."
+    },
+    {
+        "text": "How does constant access to news media affect individual mental wellbeing?",
+        "category": "general",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Consuming crisis updates throughout the day keeps our nervous system in chronic alertness.",
+        "speakingAngle": "Discuss information overload, negative bias, and practical media consumption boundaries."
+    },
+    {
+        "text": "Should children be given unrestricted access to public libraries and all reading materials?",
+        "category": "general",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Trusting young readers to explore books independently fosters critical reasoning and curiosity.",
+        "speakingAngle": "Address censorship, developmental readiness, and parental guidance."
+    },
+    {
+        "text": "What makes someone a truly good listener rather than a passive bystander?",
+        "category": "general",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Active listening requires pausing your internal monologue to genuinely process another perspective.",
+        "speakingAngle": "Define active listening techniques and illustrate their impact on interpersonal relationships."
+    },
+    {
+        "text": "Can minimalism genuinely make people happier, or is it a lifestyle privilege?",
+        "category": "general",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Decluttering material possessions only feels liberating if you have the financial safety net to replace items.",
+        "speakingAngle": "Critique consumer culture while acknowledging the socioeconomic assumptions behind minimalist trends."
+    },
+    {
+        "text": "How has streaming entertainment transformed the way we experience long-form stories?",
+        "category": "general",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Binge-watching entire seasons in a weekend alters how we build emotional attachment to characters.",
+        "speakingAngle": "Compare traditional weekly broadcast pacing with modern binge viewing patterns."
+    },
+    {
+        "text": "Should volunteering and community service be mandatory for secondary school graduation?",
+        "category": "general",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Requiring civic service builds community awareness, though forced volunteerism can breed resentment.",
+        "speakingAngle": "Evaluate whether mandatory requirements dilute the intrinsic value of civic engagement."
+    },
+    {
+        "text": "Describe a mentor who shaped your personal trajectory and the primary lesson they imparted.",
+        "category": "general",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "My first manager showed me that calm composure under pressure inspires far more confidence than panic.",
+        "speakingAngle": "Use a personal anecdote to illustrate how guidance changed your decision-making."
+    },
+    {
+        "text": "Is nostalgia generally a healthy comfort or an obstacle to personal growth?",
+        "category": "general",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Looking back fondly offers comfort, but romanticizing the past stops us from embracing present reality.",
+        "speakingAngle": "Analyze emotional comfort versus forward-looking optimism."
+    },
+    {
+        "text": "How should society balance historic architectural preservation with modern housing demands?",
+        "category": "general",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Protecting historic facades should not prevent cities from building dense, affordable apartments.",
+        "speakingAngle": "Examine city zoning, aesthetic heritage, and the affordable housing crisis."
+    },
+    {
+        "text": "What is the best way to handle persistent disagreements with family members?",
+        "category": "general",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Setting firm emotional boundaries allows family members to coexist without recurring conflict.",
+        "speakingAngle": "Offer practical diplomatic strategies for maintaining love despite ideological divides."
+    },
+    {
+        "text": "Does competitive youth sports cultivate character or produce unnecessary psychological stress?",
+        "category": "general",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Athletic discipline builds teamwork, but excessive parental pressure can ruin a child's love for the game.",
+        "speakingAngle": "Weigh resilience, fitness, and team camaraderie against burnout and toxic competition."
+    },
+    {
+        "text": "What single invention from the past two centuries has most fundamentally altered daily existence?",
+        "category": "general",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Widespread domestic refrigeration transformed public health and everyday nutrition more than personal computers.",
+        "speakingAngle": "Pick an invention, defend your choice, and explain its ripple effects on everyday routines."
+    },
+    {
+        "text": "Should pets be legally treated more like family dependents rather than personal property?",
+        "category": "general",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Recognizing domestic animals as sentient beings changes how custody disputes are handled.",
+        "speakingAngle": "Explore the ethical and legal implications of domestic animal companionship."
+    },
+    {
+        "text": "Can someone truly be productive while working without structured daily schedules?",
+        "category": "general",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Creative work often flourishes when driven by energy levels rather than rigid hourly blocks.",
+        "speakingAngle": "Compare schedule-driven discipline with intuitive, energy-based workflow models."
+    },
+    {
+        "text": "Why do people struggle so intensely with making major life changes despite wanting them?",
+        "category": "general",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "The discomfort of familiarity is often more comforting than the terrifying uncertainty of positive change.",
+        "speakingAngle": "Explore status quo bias, fear of the unknown, and practical strategies to initiate momentum."
+    },
+    {
+        "text": "How does living in solitude for extended periods change human psychology?",
+        "category": "general",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Solitude strips away external validation, forcing an individual to confront their authentic thoughts.",
+        "speakingAngle": "Examine self-discovery, introspective peace, and the risks of social detachment."
+    },
+    {
+        "text": "Is high-brow culture objectively superior to popular entertainment, or is value purely subjective?",
+        "category": "general",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Dismissing pop culture ignores how effectively modern mass media captures the collective mood.",
+        "speakingAngle": "Deconstruct artistic elitism, cultural access, and individual aesthetic enjoyment."
+    },
+    {
+        "text": "What does genuine leisure mean in an era obsessed with continuous self-optimization?",
+        "category": "general",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "True rest requires engaging in activities with zero expectation of output or improvement.",
+        "speakingAngle": "Critique productivity culture and advocate for unapologetic restorative leisure."
+    },
+    {
+        "text": "College degrees are becoming obsolete credentials for the vast majority of jobs.",
+        "category": "hot-takes",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Four years of tuition rarely matches the practical value of demonstrated self-taught portfolios.",
+        "speakingAngle": "Argue aggressively for skills-based hiring over formal academic accreditation."
+    },
+    {
+        "text": "Breakfast is completely unnecessary and largely a product of corporate marketing.",
+        "category": "hot-takes",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Intermittent fasting proved to millions that eating right after waking up is an arbitrary habit.",
+        "speakingAngle": "Deconstruct the cultural myth of breakfast using nutritional routines and marketing history."
+    },
+    {
+        "text": "Voice notes are disrespectful to the recipient and should be replaced with text.",
+        "category": "hot-takes",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Sending a three-minute voice note forces the receiver to pause their day rather than skimming a text.",
+        "speakingAngle": "Defend the recipient's time and convenience against the sender's laziness."
+    },
+    {
+        "text": "Open-plan offices were invented to save real estate money, not to foster collaboration.",
+        "category": "hot-takes",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Constant visual interruptions destroy deep focus far more than spontaneous chatter aids creativity.",
+        "speakingAngle": "Attack the corporate narrative of open workspaces and highlight the loss of deep focus."
+    },
+    {
+        "text": "Most meetings could easily be replaced with a structured three-paragraph email.",
+        "category": "hot-takes",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Holding a thirty-minute meeting to read slides aloud is an enormous waste of collective payroll.",
+        "speakingAngle": "Demonstrate the efficiency of asynchronous communication over synchronous calendar bloat."
+    },
+    {
+        "text": "Reading physical paper books is an aesthetic fetish rather than an intellectual advantage.",
+        "category": "hot-takes",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "E-readers offer searchable notes, dictionary lookups, and portability that paper simply cannot match.",
+        "speakingAngle": "Challenge the sentimental reverence for paper and defend digital reading formats."
+    },
+    {
+        "text": "Working more than forty hours a week is proof of poor management, not personal dedication.",
+        "category": "hot-takes",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Consistently staying late at the office indicates systemic understaffing or inefficient prioritization.",
+        "speakingAngle": "Dismantle hustle culture by framing excessive overtime as operational incompetence."
+    },
+    {
+        "text": "Unconditional positivity and cheerfulness in social settings is toxic and dishonest.",
+        "category": "hot-takes",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Forcing people to smile during crises invalidates genuine grief and prevents real solutions.",
+        "speakingAngle": "Critique performative optimism and defend the constructive role of critical realism."
+    },
+    {
+        "text": "Personal cars should be completely banned from central urban downtown areas.",
+        "category": "hot-takes",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Cities exist for human living and social exchange, not for storing two-ton metal boxes on curbs.",
+        "speakingAngle": "Take an uncompromising stand for pedestrianization, public transit, and civic livability."
+    },
+    {
+        "text": "Grades in primary and secondary schools do more psychological harm than educational good.",
+        "category": "hot-takes",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Letter grades teach students to optimize for test performance instead of nurturing authentic curiosity.",
+        "speakingAngle": "Argue against standardized numerical evaluations in favor of qualitative developmental feedback."
+    },
+    {
+        "text": "Tipping culture in hospitality has spiraled out of control and must be abolished entirely.",
+        "category": "hot-takes",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Business owners must pay living wages directly instead of guilt-tripping customers at the register.",
+        "speakingAngle": "Demand fair base wages while dismantling the awkward social obligation of screen tipping."
+    },
+    {
+        "text": "Networking events are universally artificial and produce almost zero meaningful professional alliances.",
+        "category": "hot-takes",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Handing business cards to strangers in a crowded lounge produces superficial contacts, not real mentors.",
+        "speakingAngle": "Compare forced transactional gatherings with genuine project-based relationship building."
+    },
+    {
+        "text": "Spoilers do not actually ruin well-told stories; bad storytelling ruins stories.",
+        "category": "hot-takes",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Knowing the ending of a great film actually allows you to appreciate directorial subtleties on first viewing.",
+        "speakingAngle": "Debate narrative craftsmanship versus cheap surprise shock value."
+    },
+    {
+        "text": "Following your passion for a career is terrible advice for ninety percent of people.",
+        "category": "hot-takes",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "It is far better to cultivate market-valued skills and let passion follow competence and financial stability.",
+        "speakingAngle": "Expose the economic pitfalls of passion advice and champion pragmatic career development."
+    },
+    {
+        "text": "Smartphones have ruined social gatherings and live concerts permanently.",
+        "category": "hot-takes",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Watching a band perform through the glowing screen of the phone in front of you destroys the shared energy.",
+        "speakingAngle": "Take a passionate stand against recording live moments at the expense of present awareness."
+    },
+    {
+        "text": "Celebrity culture and parasocial worship are signs of a deeply disengaged society.",
+        "category": "hot-takes",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Obsessing over the romantic lives of billionaires distracts people from building meaningful local communities.",
+        "speakingAngle": "Condemn the psychological dependency on celebrity figures and promote local engagement."
+    },
+    {
+        "text": "Modern architecture is sterile, soulless, and makes cities visually depressing.",
+        "category": "hot-takes",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Replacing intricate stonework and distinctive facades with identical glass boxes erases cultural identity.",
+        "speakingAngle": "Critique glass-and-steel minimalism in favor of decorative, character-rich architectural traditions."
+    },
+    {
+        "text": "Retirement at sixty-five is an outdated industrial concept that no longer makes sense.",
+        "category": "hot-takes",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "People should take mini-retirements throughout their youth instead of deferring all leisure to old age.",
+        "speakingAngle": "Propose alternative lifecycle models that integrate sabbaticals rather than a single terminal retirement."
+    },
+    {
+        "text": "Most modern contemporary art is an elaborate tax shelter rather than meaningful expression.",
+        "category": "hot-takes",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Auction house records often reflect financial speculation rather than genuine cultural resonance.",
+        "speakingAngle": "Critique high-end art market mechanics while distinguishing hype from aesthetic craftsmanship."
+    },
+    {
+        "text": "Travel does not automatically broaden the mind; many tourists just export their home bubbles.",
+        "category": "hot-takes",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Snapping photos at tourist landmarks without engaging with locals is consumption, not cultural growth.",
+        "speakingAngle": "Differentiate between superficial tourist consumption and transformative cross-cultural immersion."
+    },
+    {
+        "text": "Social media should require verifiable identity verification to eradicate anonymous cruelty.",
+        "category": "hot-takes",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Holding individuals legally accountable for their digital output would immediately civilize online discourse.",
+        "speakingAngle": "Weigh digital civility and accountability against user privacy and political whistleblowing."
+    },
+    {
+        "text": "Owning a home is financially overhyped and traps people in geographical stagnation.",
+        "category": "hot-takes",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Renting offers flexibility and freedom from property maintenance while allowing capital to grow in equities.",
+        "speakingAngle": "Challenge the cultural obsession with homeownership by presenting renting as an agile wealth strategy."
+    },
+    {
+        "text": "Fast fashion should be heavily taxed like tobacco to offset its environmental destruction.",
+        "category": "hot-takes",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Cheap disposable clothing generates microplastic waste and exploits global labor for temporary aesthetics.",
+        "speakingAngle": "Argue aggressively for disincentivizing ultra-cheap throwaway consumer trends."
+    },
+    {
+        "text": "Individual carbon footprints are a distraction fabricated to protect corporate polluters.",
+        "category": "hot-takes",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Shaming individuals over plastic straws shifts public attention away from unregulated industrial emissions.",
+        "speakingAngle": "Shift the responsibility from individual consumer guilt to systemic corporate regulation."
+    },
+    {
+        "text": "Customer service standards have collapsed because companies prioritize automation over care.",
+        "category": "hot-takes",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Trapping users in looping phone trees is an intentional barrier designed to suppress refund requests.",
+        "speakingAngle": "Rant against robotic customer service loops and advocate for accessible human support."
+    },
+    {
+        "text": "Most self-help literature is predatory nonsense that recycles common-sense aphorisms.",
+        "category": "hot-takes",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Self-help authors profit by keeping readers dependent on the next book rather than solving the issue.",
+        "speakingAngle": "Expose the repetitive clichés of self-help industries and promote pragmatic action."
+    },
+    {
+        "text": "Luxury fashion brands are selling social insecurity rather than superior craftsmanship.",
+        "category": "hot-takes",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Plastering huge logos on handbags is designed for people who need to signal wealth they rarely possess.",
+        "speakingAngle": "Deconstruct brand signaling, conspicuous consumption, and the psychology of status."
+    },
+    {
+        "text": "Standard eight-hour workdays are arbitrary relics of nineteenth-century factory labor.",
+        "category": "hot-takes",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Knowledge workers produce high-quality output for four focused hours; the rest is performative presence.",
+        "speakingAngle": "Advocate for output-based working models over rigid chronological bench-warming."
+    },
+    {
+        "text": "Public transit should be entirely funded by taxes and made free for every citizen.",
+        "category": "hot-takes",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Fare-free buses and subways speed up boarding, reduce car traffic, and give working families economic relief.",
+        "speakingAngle": "Defend universal public transit as an essential municipal utility like clean water."
+    },
+    {
+        "text": "Digital privacy is already completely dead, and people should stop pretending otherwise.",
+        "category": "hot-takes",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Between ubiquitous facial recognition, smartphone telemetry, and credit trackers, privacy is an illusion.",
+        "speakingAngle": "Present a blunt argument that data autonomy is gone and demand new legislative frameworks."
+    },
+    {
+        "text": "Will generative artificial intelligence enhance human creativity or homogenize culture?",
+        "category": "tech",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "While generative models speed up drafting, relying on them risks flooding our culture with average ideas.",
+        "speakingAngle": "Explore the friction between accelerated creative workflows and cultural blandness."
+    },
+    {
+        "text": "What are the biggest cybersecurity threats regular smartphone users face today?",
+        "category": "tech",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Phishing scams delivered through SMS often fool cautious users by mimicking bank security notices.",
+        "speakingAngle": "Identify common vulnerabilities like social engineering and explain practical defenses."
+    },
+    {
+        "text": "How will humanoid robotics impact manual warehouse and fulfillment labor?",
+        "category": "tech",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Deploying bipedal robots in logistics will boost efficiency while raising questions about job displacement.",
+        "speakingAngle": "Assess productivity gains against workforce retraining imperatives."
+    },
+    {
+        "text": "Should tech platforms be legally responsible for misinformation generated by their algorithms?",
+        "category": "tech",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "When recommendation engines amplify falsehoods for ad clicks, platforms bear editorial culpability.",
+        "speakingAngle": "Debate algorithmic neutrality versus corporate editorial accountability."
+    },
+    {
+        "text": "Explain why open-source software is the foundational backbone of the modern internet.",
+        "category": "tech",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Nearly all major cloud servers run on Linux and community-maintained open libraries.",
+        "speakingAngle": "Highlight public goods in code, collaborative security, and enterprise dependencies."
+    },
+    {
+        "text": "What will happen to software engineering as AI copilots write most boilerplate code?",
+        "category": "tech",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Software engineers will shift from typing syntax to validating architecture and complex system design.",
+        "speakingAngle": "Forecast how programming evolves toward high-level logic and architectural validation."
+    },
+    {
+        "text": "Is edge computing superior to centralized cloud computing for smart IoT devices?",
+        "category": "tech",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Processing sensory inputs locally reduces latency and protects user privacy from cloud leaks.",
+        "speakingAngle": "Compare real-time local processing against scalable cloud infrastructure."
+    },
+    {
+        "text": "How do quantum computers differ fundamentally from classical digital computers?",
+        "category": "tech",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Unlike classical binary bits, qubits exploit superposition to evaluate vast combinations simultaneously.",
+        "speakingAngle": "Clarify superposition and entanglement without relying on dense technical jargon."
+    },
+    {
+        "text": "What practical benefits can augmented reality glasses offer over handheld smartphones?",
+        "category": "tech",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Having heads-up navigation arrows overlaid on city sidewalks makes looking down at a screen obsolete.",
+        "speakingAngle": "Illustrate contextual computing, hands-free utility, and social presence."
+    },
+    {
+        "text": "How do recommendation algorithms systematically trap users inside echo chambers?",
+        "category": "tech",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Feeds optimize for time-on-screen by repeatedly serving content that confirms your existing biases.",
+        "speakingAngle": "Break down engagement-based algorithmic optimization and its social consequences."
+    },
+    {
+        "text": "What ethical challenges arise when autonomous vehicles must make split-second crash decisions?",
+        "category": "tech",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Programming an autonomous car involves hardcoding utilitarian decisions into emergency braking software.",
+        "speakingAngle": "Analyze the classic trolley problem applied to autonomous vehicle safety software."
+    },
+    {
+        "text": "Is the smart home genuinely making life easier or introducing unnecessary failure points?",
+        "category": "tech",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Being unable to turn on your kitchen lights because your Wi-Fi router rebooted is absurd.",
+        "speakingAngle": "Balance automation convenience against device maintenance, security, and hardware obsolescence."
+    },
+    {
+        "text": "How will brain-computer interfaces transform medical rehabilitation in the coming decade?",
+        "category": "tech",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Neural implants can restore motor control to paralyzed patients by reading cortical motor intent.",
+        "speakingAngle": "Discuss neural signal decoding, assistive robotics, and neuroethical boundaries."
+    },
+    {
+        "text": "Why has battery energy density lagged behind the explosive growth of computing power?",
+        "category": "tech",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Software obeys Moore's Law, but battery storage is bounded by the laws of chemical thermodynamics.",
+        "speakingAngle": "Explain physical chemistry constraints versus exponential computational scaling."
+    },
+    {
+        "text": "What are deepfakes, and how can society effectively defend against video impersonation?",
+        "category": "tech",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Cryptographic watermarking and digital provenance standards will be required to verify video authenticity.",
+        "speakingAngle": "Address media verification, cryptographic signatures, and social skepticism."
+    },
+    {
+        "text": "Should internet access be classified and regulated as a fundamental public utility?",
+        "category": "tech",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Modern education and employment require broadband as critically as running water or power grids.",
+        "speakingAngle": "Argue for universal broadband access as an infrastructure imperative."
+    },
+    {
+        "text": "How do ad-blocking technologies reshape the economic business model of journalism?",
+        "category": "tech",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "When display ads get blocked, publishers are forced to rely on paywalls and native sponsored articles.",
+        "speakingAngle": "Examine user privacy tools versus sustainable publisher monetization."
+    },
+    {
+        "text": "Why do large software projects frequently fail or blow past their original budgets?",
+        "category": "tech",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Scope creep and unanticipated legacy integration issues regularly derail software roadmaps.",
+        "speakingAngle": "Explain technical debt, scope creep, and human coordination bottlenecks."
+    },
+    {
+        "text": "What role does space-based satellite internet play in bridging the global digital divide?",
+        "category": "tech",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Low Earth orbit satellite constellations bring high-speed internet to remote regions without laying cables.",
+        "speakingAngle": "Discuss orbital constellations, rural connectivity, and orbital debris management."
+    },
+    {
+        "text": "Can synthetic biology and DNA data storage replace silicon hard drives in the future?",
+        "category": "tech",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "A single gram of synthesized DNA can preserve petabytes of archival data for thousands of years.",
+        "speakingAngle": "Explore ultra-dense biological storage, durability, and read-write speed limitations."
+    },
+    {
+        "text": "How does end-to-end encryption protect ordinary citizens from unwarranted mass surveillance?",
+        "category": "tech",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "End-to-end encryption ensures only conversation participants can decrypt messages, blocking interception.",
+        "speakingAngle": "Explain cryptographic key pairs and defend encryption as a civil liberties safeguard."
+    },
+    {
+        "text": "Is the metaverse concept dead or simply waiting for viable hardware ergonomics?",
+        "category": "tech",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Bulky headsets and motion sickness held back virtual worlds, but lightweight optics could revive the idea.",
+        "speakingAngle": "Analyze hardware comfort, spatial computing utility, and early over-hyped expectations."
+    },
+    {
+        "text": "How does biometric authentication like face and fingerprint scanning improve or risk device security?",
+        "category": "tech",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Biometrics prevent password theft, but unlike passwords, you cannot change your compromised fingerprint.",
+        "speakingAngle": "Contrast user convenience with the permanence of compromised biometric credentials."
+    },
+    {
+        "text": "What are zero-day exploits, and why is the market for buying them so lucrative?",
+        "category": "tech",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "A zero-day exploit gives attackers access before software vendors even know the security hole exists.",
+        "speakingAngle": "Explain vulnerability discovery, government intelligence markets, and ethical bug bounties."
+    },
+    {
+        "text": "Will 3D printing fundamentally disrupt centralized manufacturing and shipping supply chains?",
+        "category": "tech",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Printing spare parts locally on demand eliminates the need to ship small components across oceans.",
+        "speakingAngle": "Discuss localized additive manufacturing, material costs, and distributed supply chains."
+    },
+    {
+        "text": "How can machine learning models be trained responsibly to minimize systemic demographic bias?",
+        "category": "tech",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Feeding models historical training data often preserves and scales up past societal prejudices.",
+        "speakingAngle": "Detail dataset curation, algorithmic audits, and ethical AI development frameworks."
+    },
+    {
+        "text": "Why are microchips and semiconductor fabrication facilities considered critical national security assets?",
+        "category": "tech",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Cutting-edge microchips power everything from fighter jets to medical scanners, creating geopolitical dependencies.",
+        "speakingAngle": "Highlight photolithography complexity, cleanroom logistics, and global supply bottlenecks."
+    },
+    {
+        "text": "What is the practical environmental footprint of running massive AI data centers?",
+        "category": "tech",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Training and running frontier neural networks consumes tremendous electrical power and cooling water.",
+        "speakingAngle": "Address data center energy grids, thermal cooling requirements, and sustainable compute."
+    },
+    {
+        "text": "How does blockchain technology function beyond the realm of speculative cryptocurrencies?",
+        "category": "tech",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Immutable ledgers help track pharmaceutical supply chains to verify medication authenticity.",
+        "speakingAngle": "Discuss verifiable distributed ledgers for provenance, smart contracts, and identity."
+    },
+    {
+        "text": "What is planned obsolescence in consumer electronics, and how can the right-to-repair movement stop it?",
+        "category": "tech",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Gluing phone batteries in place makes repair prohibitively difficult, forcing users into early upgrades.",
+        "speakingAngle": "Champion modular repairability, consumer ownership rights, and electronic waste reduction."
+    },
+    {
+        "text": "Why is establishing an emergency fund the critical first step before investing in equities?",
+        "category": "finance",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Having three months of living expenses in cash prevents you from selling stocks at a steep loss.",
+        "speakingAngle": "Explain cash liquidity, emotional security, and unexpected expense management."
+    },
+    {
+        "text": "Explain how compound interest works and why starting to save in your twenties is crucial.",
+        "category": "finance",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Earning returns on your reinvested earnings accelerates wealth creation far more than high income alone.",
+        "speakingAngle": "Use a clear time-horizon comparison to illustrate exponential asset growth."
+    },
+    {
+        "text": "What is the difference between good debt and bad debt for a young professional?",
+        "category": "finance",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Taking a low-interest loan for career training is good debt, while maxing high-interest credit cards for clothes is bad debt.",
+        "speakingAngle": "Categorize debt by productive return on investment versus consumptive depreciation."
+    },
+    {
+        "text": "How do broad market index funds compare to picking individual stocks for retail investors?",
+        "category": "finance",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Buying an index fund spreads risk across hundreds of businesses, beating most active stock pickers.",
+        "speakingAngle": "Explain diversification, low expense ratios, and the folly of market timing."
+    },
+    {
+        "text": "What is lifestyle inflation, and how can you systematically protect your savings from it?",
+        "category": "finance",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "When your salary doubles, your discretionary spending often expands to consume the surplus immediately.",
+        "speakingAngle": "Describe automated savings allocations and intentional spending discipline."
+    },
+    {
+        "text": "How does inflation erode the purchasing power of idle money in traditional bank accounts?",
+        "category": "finance",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Keeping savings in a zero-interest checking account guarantees that rising consumer prices will devalue your cash.",
+        "speakingAngle": "Illustrate real returns, purchasing power decline, and inflation hedges."
+    },
+    {
+        "text": "Explain the mechanics of a credit score and the best practices for building one from scratch.",
+        "category": "finance",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Paying your balance in full every month keeps credit utilization low and establishes a trustworthy score.",
+        "speakingAngle": "Break down credit utilization, payment history, and borrowing benefits."
+    },
+    {
+        "text": "Is renting a home really throwing money away compared to paying off a mortgage?",
+        "category": "finance",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Renting caps your housing costs, whereas homeownership includes property taxes, interest, and maintenance.",
+        "speakingAngle": "Dissect the unrecoverable costs of homeownership versus renting and investing the difference."
+    },
+    {
+        "text": "How should an employee approach negotiating their salary when receiving a job offer?",
+        "category": "finance",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Researching market compensation and highlighting your tangible track record anchors your counteroffer effectively.",
+        "speakingAngle": "Provide practical framing, leverage benchmarks, and non-salary compensation alternatives."
+    },
+    {
+        "text": "What is dollar-cost averaging, and why does it protect investors from emotional market timing?",
+        "category": "finance",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Investing a fixed amount every month automates buying more shares when prices drop and fewer when they rise.",
+        "speakingAngle": "Explain behavioral discipline, volatility smoothing, and programmatic investing."
+    },
+    {
+        "text": "How do high management fees and expense ratios silently destroy long-term retirement portfolios?",
+        "category": "finance",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "A seemingly tiny two percent annual management fee can devour nearly a third of your portfolio over thirty years.",
+        "speakingAngle": "Demonstrate the mathematical drag of compounding fees on investment balances."
+    },
+    {
+        "text": "What are the core differences between active investing and passive investing?",
+        "category": "finance",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Active managers attempt to outperform the market through timing, while passive investors mirror benchmark indices.",
+        "speakingAngle": "Compare fee structures, historical benchmark returns, and risk exposure."
+    },
+    {
+        "text": "Why should young adults care about disability insurance and term life insurance?",
+        "category": "finance",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Your greatest asset in your twenties is your future earning potential, which disability insurance protects.",
+        "speakingAngle": "Frame insurance as catastrophic risk mitigation rather than an investment vehicle."
+    },
+    {
+        "text": "How can someone effectively budget using the 50/30/20 financial rule?",
+        "category": "finance",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Allocating fifty percent to essentials, thirty to wants, and twenty to savings creates an easy baseline.",
+        "speakingAngle": "Walk through income allocation categories and explain how to handle living expenses."
+    },
+    {
+        "text": "What is the psychological impact of debt on cognitive bandwidth and personal decision-making?",
+        "category": "finance",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Worrying about loan interest depletes mental energy, making long-term career planning far harder.",
+        "speakingAngle": "Discuss mental scarcity, stress-induced decision fatigue, and the relief of debt payoff."
+    },
+    {
+        "text": "Explain the debt snowball versus debt avalanche methods for paying down personal loans.",
+        "category": "finance",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Snowball targets smallest balances for psychological wins, while avalanche targets highest interest rates to save money.",
+        "speakingAngle": "Compare psychological motivation against pure mathematical interest optimization."
+    },
+    {
+        "text": "Why do lottery winners and sudden-wealth recipients frequently go bankrupt within a few years?",
+        "category": "finance",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Receiving windfall capital without financial literacy or legal structures invites predatory spending and exploitation.",
+        "speakingAngle": "Analyze financial literacy gaps, interpersonal pressures, and sudden wealth syndrome."
+    },
+    {
+        "text": "What is liquidity, and why does asset liquidity matter during an economic downturn?",
+        "category": "finance",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Real estate is valuable, but if you need cash by tomorrow morning, selling a home takes months.",
+        "speakingAngle": "Define convertibility to cash, fire-sale risks, and asset preservation during crises."
+    },
+    {
+        "text": "How do macroeconomic interest rates set by central banks influence everyday consumer borrowing?",
+        "category": "finance",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "When the central bank hikes rates, car loans and mortgage payments become substantially more expensive.",
+        "speakingAngle": "Trace monetary policy decisions down to auto loans, credit cards, and mortgages."
+    },
+    {
+        "text": "What is the financial danger of Buy Now, Pay Later micro-financing services?",
+        "category": "finance",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Splitting minor online purchases into four installments obscures the total amount being spent.",
+        "speakingAngle": "Expose friction-free checkout illusions and cumulative debt accumulation."
+    },
+    {
+        "text": "How does tax-loss harvesting work to improve an investor's overall net return?",
+        "category": "finance",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Selling underperforming assets allows you to offset realized capital gains and reduce your tax liability.",
+        "speakingAngle": "Explain capital gains offsets, portfolio rebalancing, and tax efficiency."
+    },
+    {
+        "text": "Should students pursue high-earning careers they dislike over lower-paying callings they love?",
+        "category": "finance",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "A high salary provides financial independence, but enduring misery for a paycheck causes chronic burnout.",
+        "speakingAngle": "Weigh financial security, student debt obligations, and long-term career fulfillment."
+    },
+    {
+        "text": "What is an asset bubble, and what psychological behaviors fuel its unsustainable expansion?",
+        "category": "finance",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Speculative euphoria takes over when buyers purchase assets solely hoping someone else will pay more.",
+        "speakingAngle": "Explain herd mentality, fear of missing out, and fundamental valuation detachment."
+    },
+    {
+        "text": "How do health savings accounts function as stealth retirement and investment accounts?",
+        "category": "finance",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Contributions go in pre-tax, grow tax-free, and withdraw tax-free for qualified medical expenses.",
+        "speakingAngle": "Break down the triple-tax advantage and long-term medical investment strategies."
+    },
+    {
+        "text": "What does financial independence mean to you beyond simply not having an office job?",
+        "category": "finance",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "True financial freedom means having the autonomy to say no to projects that compromise your values.",
+        "speakingAngle": "Define personal autonomy, time ownership, and detachment from consumer status."
+    },
+    {
+        "text": "How do exchange-traded funds differ from traditional mutual funds in daily operations?",
+        "category": "finance",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "ETFs trade like individual shares throughout market hours, whereas mutual funds settle once after closing.",
+        "speakingAngle": "Detail intra-day pricing, tax efficiency mechanisms, and minimum investment barriers."
+    },
+    {
+        "text": "Why is relying entirely on a state pension or social security a dangerous retirement strategy?",
+        "category": "finance",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Demographic shifts and rising living expenses mean public pensions will cover only baseline survival.",
+        "speakingAngle": "Highlight aging populations, dependency ratios, and the need for self-directed investing."
+    },
+    {
+        "text": "What is opportunistic rebalancing, and how does it force an investor to buy low and sell high?",
+        "category": "finance",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Resetting your portfolio back to target allocations systematically takes profits from winners to buy laggards.",
+        "speakingAngle": "Demonstrate asset allocation bands, risk control, and counter-cyclical buying."
+    },
+    {
+        "text": "How do hidden subscription charges and automated billing quietly drain young household budgets?",
+        "category": "finance",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Dozens of small monthly subscriptions for streaming and software quickly compound into thousands a year.",
+        "speakingAngle": "Advocate for regular recurring expense audits and active subscription management."
+    },
+    {
+        "text": "Explain why real estate investing involves significant operational work unlike passive equities.",
+        "category": "finance",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Managing physical rental properties means dealing with plumbing emergencies, tenant vacancies, and renovations.",
+        "speakingAngle": "Demystify passive income claims by detailing landlord responsibilities and capital expenditures."
+    },
+    {
+        "text": "Tell me about a time you made a significant mistake at work and how you handled the resolution.",
+        "category": "interview",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "I deployed a buggy update, took immediate accountability, rolled back the release, and wrote a post-mortem.",
+        "speakingAngle": "Use the STAR method: describe the error honestly, take ownership, and explain permanent fixes."
+    },
+    {
+        "text": "How do you manage competing deadlines when multiple high-priority projects land at the same time?",
+        "category": "interview",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "I evaluate each deliverable based on business impact and immediately communicate realistic timelines to stakeholders.",
+        "speakingAngle": "Detail prioritization frameworks, stakeholder expectation management, and transparent triage."
+    },
+    {
+        "text": "Describe a situation where you had to work closely with a difficult or uncooperative teammate.",
+        "category": "interview",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "I scheduled a one-on-one coffee chat to understand their concerns, aligning our goals on shared project outcomes.",
+        "speakingAngle": "Focus on emotional intelligence, constructive communication, and professional objectivity."
+    },
+    {
+        "text": "What is your greatest professional weakness, and what steps are you taking to improve it?",
+        "category": "interview",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "I used to struggle with delegating tasks, so I now use project management boards to track team ownership.",
+        "speakingAngle": "State an authentic weakness, avoid humble-bragging, and highlight practical self-improvement habits."
+    },
+    {
+        "text": "Where do you envision your professional trajectory heading over the next five years?",
+        "category": "interview",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "I plan to deepen my technical expertise while progressively stepping into team mentorship and strategic design.",
+        "speakingAngle": "Balance ambition with loyalty, connecting your personal milestones to the company's growth."
+    },
+    {
+        "text": "Describe a project where you demonstrated initiative without waiting for management direction.",
+        "category": "interview",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Noticing client onboarding was lagging, I created a self-service resource library that cut ticket volume.",
+        "speakingAngle": "Highlight problem detection, proactive ownership, and measurable operational results."
+    },
+    {
+        "text": "Why are you interested in joining our company specifically rather than our direct competitors?",
+        "category": "interview",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Your team's focus on open-source community development matches my passion for accessible technology.",
+        "speakingAngle": "Demonstrate company research, values alignment, and genuine cultural excitement."
+    },
+    {
+        "text": "Tell me about a time you strongly disagreed with your supervisor's decision and how you handled it.",
+        "category": "interview",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "I shared alternative user data privately with my manager, but fully committed once the final decision was made.",
+        "speakingAngle": "Emphasize respectful pushback, empirical evidence, and subsequent alignment after decisions."
+    },
+    {
+        "text": "How do you handle receiving direct critical feedback on your work from peers or leaders?",
+        "category": "interview",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "I view constructive criticism as valuable coaching that helps me iterate and produce better work.",
+        "speakingAngle": "Display coachability, emotional maturity, and rapid implementation of feedback."
+    },
+    {
+        "text": "Describe an instance where a project failed despite the team's best efforts. What did you learn?",
+        "category": "interview",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Our product launch missed user adoption metrics because we delayed testing with real target customers.",
+        "speakingAngle": "Show analytical reflection without defensiveness, emphasizing the organizational takeaways."
+    },
+    {
+        "text": "How do you maintain focus, productivity, and communication while working remotely?",
+        "category": "interview",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "I maintain clear boundaries with time-blocked calendars and send daily asynchronous status summaries.",
+        "speakingAngle": "Detail self-discipline systems, proactive updates, and digital collaboration habits."
+    },
+    {
+        "text": "Describe a complex technical concept you had to explain to a completely non-technical client.",
+        "category": "interview",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "I compared our API database caching to keeping popular ingredients on the kitchen counter instead of the pantry.",
+        "speakingAngle": "Highlight empathy, visual analogies, and checking for client understanding."
+    },
+    {
+        "text": "Tell me about a high-stress workplace situation you faced and the specific steps you took to stay calm.",
+        "category": "interview",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "When the payment gateway went down, I organized a focused triage channel and assigned explicit roles.",
+        "speakingAngle": "Illustrate composure under pressure, methodical problem deconstruction, and team stabilization."
+    },
+    {
+        "text": "What kind of work environment and management style enables you to perform at your absolute best?",
+        "category": "interview",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "I thrive under leaders who set clear strategic goals and grant autonomy on how to execute them.",
+        "speakingAngle": "Articulate your ideal balance of autonomy, constructive guidance, and transparent communication."
+    },
+    {
+        "text": "Tell me about an occasion where you had to persuade reluctant stakeholders to support your proposal.",
+        "category": "interview",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "I ran a small pilot test to gather actual conversion data, letting evidence win over skeptical managers.",
+        "speakingAngle": "Focus on data-driven persuasion, listening to stakeholder objections, and consensus-building."
+    },
+    {
+        "text": "How do you stay current with rapidly evolving industry trends, tools, and technical best practices?",
+        "category": "interview",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "I read specialized developer newsletters, experiment with side projects, and attend local meetups.",
+        "speakingAngle": "Demonstrate curiosity, self-directed learning routines, and practical application of new tools."
+    },
+    {
+        "text": "Describe a scenario where you had to make an important business decision with incomplete data.",
+        "category": "interview",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "We lacked customer survey metrics, so I analyzed competitors and launched a minimal test to gather quick data.",
+        "speakingAngle": "Explain risk management, rapid prototyping, and decisive problem-solving."
+    },
+    {
+        "text": "What would you prioritize achieving during your first ninety days in this role?",
+        "category": "interview",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "In the first month I will listen and absorb workflows, followed by delivering a targeted quick win.",
+        "speakingAngle": "Structure your answer around listening, learning team dynamics, and delivering an early win."
+    },
+    {
+        "text": "Tell me about a time you stepped up to lead a team through an unexpected crisis or reorganization.",
+        "category": "interview",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "When our team lead fell ill, I organized the daily standups and reassigned critical sprints to keep delivery on track.",
+        "speakingAngle": "Show situational leadership, steady communication, and team morale support."
+    },
+    {
+        "text": "How do you balance rapid delivery and feature speed against code quality and technical debt?",
+        "category": "interview",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "I advocate for shipping the minimal viable solution while scheduling dedicated sprints to refactor tech debt.",
+        "speakingAngle": "Address pragmatism, stakeholder expectations, and long-term codebase health."
+    },
+    {
+        "text": "Describe a time you went above and beyond the stated responsibilities of your job description.",
+        "category": "interview",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "I noticed new hires struggled with our internal tools, so I wrote an interactive onboarding guide.",
+        "speakingAngle": "Demonstrate empathy for team efficiency and voluntary organizational citizenship."
+    },
+    {
+        "text": "Tell me about a time you had to deliver bad news to a customer or executive leadership.",
+        "category": "interview",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "I informed the client our launch would slip by a week, but presented two mitigation options immediately.",
+        "speakingAngle": "Emphasize transparency, timely warning, and presenting actionable solutions alongside bad news."
+    },
+    {
+        "text": "How do you know when a project is truly done, rather than continuously polishing minor details?",
+        "category": "interview",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "A project is complete when it satisfies all acceptance criteria and delivers the core user value.",
+        "speakingAngle": "Discuss definition-of-done standards, resisting perfectionism, and iterative shipping."
+    },
+    {
+        "text": "Describe a situation where you mediated a professional conflict between two team members.",
+        "category": "interview",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "I reframed their disagreement around shared product outcomes rather than personal design preferences.",
+        "speakingAngle": "Show emotional neutrality, finding common ground, and focusing on business outcomes."
+    },
+    {
+        "text": "What is the most innovative solution you have implemented to solve a stubborn, recurring problem?",
+        "category": "interview",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "I built an automated script that categorized incoming customer bugs, saving hours of manual review.",
+        "speakingAngle": "Detail root cause discovery, creative problem solving, and long-term efficiency gains."
+    },
+    {
+        "text": "Why should we hire you over other qualified candidates applying for this position?",
+        "category": "interview",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "My rare mix of backend architecture skills and customer-facing support experience lets me deliver faster.",
+        "speakingAngle": "Highlight your unique combination of skills, proven track record, and strong work ethic."
+    },
+    {
+        "text": "Describe an experience where you had to adapt quickly to a major organizational pivot.",
+        "category": "interview",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "When company strategy shifted toward enterprise clients, I rapidly updated our documentation and sales collateral.",
+        "speakingAngle": "Demonstrate resilience, flexibility, and maintaining a positive attitude through uncertainty."
+    },
+    {
+        "text": "How do you measure your own personal success and performance on a day-to-day basis?",
+        "category": "interview",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "I measure success by whether I unblocked my teammates and made tangible progress on our key metrics.",
+        "speakingAngle": "Connect personal satisfaction with team impact and measurable outcomes."
+    },
+    {
+        "text": "Tell me about a time you mentored a junior colleague and helped them achieve a breakthrough.",
+        "category": "interview",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "I walked through code debugging techniques weekly, helping our intern deliver their first standalone feature.",
+        "speakingAngle": "Highlight patience, asking empowering questions, and celebrating others' successes."
+    },
+    {
+        "text": "Do you have any questions for us regarding the team, role, or strategic direction of the company?",
+        "category": "interview",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "What are the biggest bottlenecks your engineering team hopes this new hire will solve first?",
+        "speakingAngle": "Ask thoughtful questions that reveal strategic curiosity and engagement."
+    },
+    {
+        "text": "Pitch an app that prevents food waste by connecting neighbors to share excess groceries.",
+        "category": "pitch",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Our app lets you post extra produce before leaving on vacation so nearby neighbors can pick it up.",
+        "speakingAngle": "Highlight the environmental issue, the hyper-local community solution, and quick user onboarding."
+    },
+    {
+        "text": "Deliver a sixty-second elevator pitch introducing yourself as a freelance digital marketing consultant.",
+        "category": "pitch",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "I help regional restaurants double online orders through targeted local social ads and menu optimization.",
+        "speakingAngle": "Open with your unique value proposition, name your niche client, and share a tangible result."
+    },
+    {
+        "text": "Pitch an AI-powered smart mirror that provides personalized morning fitness and posture analysis.",
+        "category": "pitch",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "While brushing your teeth, our mirror analyzes your spinal alignment and suggests quick stretches.",
+        "speakingAngle": "Focus on seamless daily integration, non-intrusive health tracking, and the product's hardware-software appeal."
+    },
+    {
+        "text": "Pitch a subscription service that delivers curated, locally roasted specialty coffee to your doorstep.",
+        "category": "pitch",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "We bridge independent local roasters and home brewers, delivering freshly roasted beans every two weeks.",
+        "speakingAngle": "Emphasize freshness, supporting artisanal roasters, and a curated sensory experience."
+    },
+    {
+        "text": "Pitch a community tool library that allows suburban residents to borrow tools instead of buying them.",
+        "category": "pitch",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Why pay two hundred dollars for a drill you use once a year when you can borrow it from the neighborhood hub?",
+        "speakingAngle": "Highlight cost savings, reduced clutter, and sustainable community sharing."
+    },
+    {
+        "text": "Pitch a B2B SaaS platform that automates expense reporting by scanning receipts through text messages.",
+        "category": "pitch",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Employees simply snap a photo of their lunch bill to our bot, and the expense report submits automatically.",
+        "speakingAngle": "Quantify hours saved for finance teams and eliminate employee receipt frustration."
+    },
+    {
+        "text": "Pitch an eco-friendly shoe brand manufactured entirely from recycled ocean plastics.",
+        "category": "pitch",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "We turn coastal plastic pollution into high-performance, stylish sneakers that leave zero footprint.",
+        "speakingAngle": "Lead with sleek style and durability, backed up by strong ecological credentials."
+    },
+    {
+        "text": "Pitch an educational platform that teaches high school students practical financial literacy through games.",
+        "category": "pitch",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "We teach budgeting, taxes, and investing by turning personal finance into an engaging simulation game.",
+        "speakingAngle": "Contrast dry textbook curricula with interactive, gamified learning mechanics."
+    },
+    {
+        "text": "Pitch a mental health platform designed specifically for remote workers struggling with isolation.",
+        "category": "pitch",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "We provide remote employees with peer support circles and on-demand therapy tailored for home-office stress.",
+        "speakingAngle": "Address work-from-home loneliness, corporate burnout costs, and accessible mental support."
+    },
+    {
+        "text": "Pitch yourself to an investor as the ideal founder to build a generational software startup.",
+        "category": "pitch",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "My deep domain knowledge combined with an obsession with customer needs makes our team unstoppable.",
+        "speakingAngle": "Project clarity, resilience, operational momentum, and unfair founder advantages."
+    },
+    {
+        "text": "Pitch an urban indoor vertical farming concept that provides supermarkets with daily fresh greens.",
+        "category": "pitch",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "We grow fresh greens directly inside city centers, cutting water consumption by ninety percent.",
+        "speakingAngle": "Emphasize supply chain resilience, water conservation, and superior produce freshness."
+    },
+    {
+        "text": "Pitch a micro-mentorship marketplace connecting college students with industry professionals for fifteen-minute chats.",
+        "category": "pitch",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Skip cold LinkedIn outreach and book targeted fifteen-minute feedback calls with vetted professionals.",
+        "speakingAngle": "Highlight low time commitments for mentors and high value for aspiring students."
+    },
+    {
+        "text": "Pitch an emergency roadside assistance membership service exclusively for electric vehicle owners.",
+        "category": "pitch",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Our mobile recharge trucks reach stranded EV drivers in under twenty minutes to get them to the next station.",
+        "speakingAngle": "Address EV range anxiety and provide tailored electrical roadside charging solutions."
+    },
+    {
+        "text": "Pitch a zero-waste grocery store franchise that sells everything in reusable bulk containers.",
+        "category": "pitch",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Bring your own jars, pay only for the food you need, and help eliminate single-use packaging entirely.",
+        "speakingAngle": "Frame bulk shopping as a cost-effective, environmentally conscious lifestyle choice."
+    },
+    {
+        "text": "Pitch a cybersecurity training simulator that uses harmless simulated phishing to train employees.",
+        "category": "pitch",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "We test your staff with realistic mock phishing emails, training them before real hackers strike.",
+        "speakingAngle": "Focus on mitigating human error, preventing ransomware, and gamified enterprise security."
+    },
+    {
+        "text": "Pitch a pet wearable device that translates biometric indicators into basic mood and health alerts.",
+        "category": "pitch",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Our collar detects early signs of canine arthritis and stress before your dog shows outward pain.",
+        "speakingAngle": "Appeal to pet owners' love for their animals with proactive preventative veterinary data."
+    },
+    {
+        "text": "Pitch an online language-learning platform where you practice speaking exclusively with interactive AI personas.",
+        "category": "pitch",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Practice conversation with zero anxiety by speaking to adaptable AI characters tailored to your skill level.",
+        "speakingAngle": "Highlight judgment-free speaking environments, flexible scheduling, and personalized feedback."
+    },
+    {
+        "text": "Pitch a decentralized co-working network converting neighborhood coffee shops during their slow evening hours.",
+        "category": "pitch",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "We transform quiet evening cafes into vibrant study and co-working spaces for remote freelancers.",
+        "speakingAngle": "Create a win-win: extra income for venue owners and cheap, cozy spaces for remote workers."
+    },
+    {
+        "text": "Pitch a modern digital will and estate planning tool that securely catalogs online digital assets.",
+        "category": "pitch",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Ensure your cryptocurrency keys, cloud photos, and digital accounts transfer safely to loved ones.",
+        "speakingAngle": "Tackle the modern reality of digital legacy, encryption security, and peace of mind."
+    },
+    {
+        "text": "Pitch a peer-to-peer campervan rental platform connecting outdoor adventurers with vehicle owners.",
+        "category": "pitch",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Rent unique campervans directly from local owners and embark on your road trip without owning a van.",
+        "speakingAngle": "Highlight the rise of outdoor adventure, owner monetization, and flexible travel."
+    },
+    {
+        "text": "Pitch a noise-canceling window film for urban apartments that dampens street traffic decibels.",
+        "category": "pitch",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Our thin window film blocks sixty percent of city traffic roar, bringing quiet back to city living.",
+        "speakingAngle": "Quantify urban noise pollution health hazards and present an affordable residential fix."
+    },
+    {
+        "text": "Pitch an AI scheduling executive assistant tailored specifically for independent solo contractors.",
+        "category": "pitch",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Stop the endless email tag; our virtual assistant books client calls and protects your focus time.",
+        "speakingAngle": "Emphasize time reclamation, professionalism, and zero calendar friction."
+    },
+    {
+        "text": "Pitch a corporate volunteering matching engine that aligns employee skills with local non-profit projects.",
+        "category": "pitch",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Instead of having coders paint fences, we match software engineers with non-profits needing web tools.",
+        "speakingAngle": "Contrast generic team-building events with high-impact, skills-based philanthropy."
+    },
+    {
+        "text": "Pitch a luggage delivery logistics service that sends your bags directly from home to your destination hotel.",
+        "category": "pitch",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Skip bag check lines and baggage claim entirely; travel hands-free while your luggage waits in your room.",
+        "speakingAngle": "Sell the luxury of effortless, hands-free travel and zero airport baggage delays."
+    },
+    {
+        "text": "Pitch a smart water bottle that monitors hydration and filters tap water in real-time.",
+        "category": "pitch",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Our bottle cleans water using UV-C light while tracking your daily water intake on your phone.",
+        "speakingAngle": "Focus on health optimization, clean water access, and ditching single-use plastic bottles."
+    },
+    {
+        "text": "Pitch an automated podcast editing tool that cuts filler words, balances audio, and creates video clips in seconds.",
+        "category": "pitch",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Upload your raw audio, and our tool removes filler words and generates promotional clips in three minutes.",
+        "speakingAngle": "Save creators ten hours per episode and streamline cross-platform video marketing."
+    },
+    {
+        "text": "Pitch a sustainable bamboo-based packaging alternative to replace polystyrene shipping foam.",
+        "category": "pitch",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Our biodegradable bamboo packaging protects fragile shipments just like foam but breaks down in weeks.",
+        "speakingAngle": "Target e-commerce supply chains, corporate ESG compliance, and zero-landfill packaging."
+    },
+    {
+        "text": "Pitch an on-demand home bicycle repair service that tunes bikes right at the customer's front door.",
+        "category": "pitch",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Skip hauling your bike to the repair shop; our mobile mechanics service your bike in your driveway.",
+        "speakingAngle": "Emphasize convenience, encouraging green urban commuting, and reliable maintenance."
+    },
+    {
+        "text": "Pitch an open-source decentralized identity protocol that gives users complete control over their personal data.",
+        "category": "pitch",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Log into any service online without corporate tracking, owning your credentials through cryptographic keys.",
+        "speakingAngle": "Address digital sovereignty, eradicating data brokers, and next-generation web security."
+    },
+    {
+        "text": "Pitch a personalized nutrition service that tailors daily meals based on continuous glucose monitoring data.",
+        "category": "pitch",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "We analyze your blood glucose responses to deliver fresh meals that maintain steady energy all day.",
+        "speakingAngle": "Highlight metabolic health optimization, biomarker personalization, and avoiding afternoon energy crashes."
+    },
+    {
+        "text": "Why has short-form vertical video permanently transformed attention spans and content discovery?",
+        "category": "gen-z",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Endless vertical video feeds prioritize instant dopamine, making slower long-form videos feel boring.",
+        "speakingAngle": "Analyze rapid-fire media consumption, creator pacing, and shifts in daily patience."
+    },
+    {
+        "text": "What does the rise of 'quiet quitting' reveal about younger generations' attitudes toward work?",
+        "category": "gen-z",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Setting boundaries around working hours is not laziness; it is a refusal to sacrifice life for a company.",
+        "speakingAngle": "Frame boundary-setting as a healthy rejection of exploitative corporate hustle culture."
+    },
+    {
+        "text": "How have thrift shopping and vintage clothing evolved from a budget necessity into a high-status trend?",
+        "category": "gen-z",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Finding a unique vintage jacket at a thrift shop signals personal taste far better than buying retail.",
+        "speakingAngle": "Explore individuality, eco-conscious shopping, and the aesthetic appeal of vintage fashion."
+    },
+    {
+        "text": "Is internet slang and meme vocabulary degrading verbal communication or expanding linguistic expression?",
+        "category": "gen-z",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Internet slang allows people to express complex feelings and irony with incredible brevity.",
+        "speakingAngle": "Defend linguistic evolution, digital shorthand, and community building through humor."
+    },
+    {
+        "text": "How does climate anxiety specifically impact the life choices and future planning of young adults?",
+        "category": "gen-z",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Concerns over extreme weather and ecological collapse make many young people question having children.",
+        "speakingAngle": "Discuss long-term existential dread, career choices, and changing views on family planning."
+    },
+    {
+        "text": "Why is authenticity prized above all else by younger digital consumers, and how do brands fail to fake it?",
+        "category": "gen-z",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Polished corporate commercials get ignored in favor of unfiltered creators showing real experiences.",
+        "speakingAngle": "Dissect the hunger for raw, unpolished honesty and explain why corporate pandering fails."
+    },
+    {
+        "text": "How do algorithmic content feeds create ultra-specific micro-communities and cultural aesthetics?",
+        "category": "gen-z",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Instead of one monoculture, we now have thousands of niche subcultures that never interact.",
+        "speakingAngle": "Explain algorithmic niche culture, personal identity curation, and the death of monoculture."
+    },
+    {
+        "text": "What drives the popularity of side hustles and entrepreneurial freelance ventures among young people?",
+        "category": "gen-z",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Watching corporate layoffs made young workers realize that relying on a single employer is risky.",
+        "speakingAngle": "Connect the gig economy to self-preservation, financial independence, and flexible schedules."
+    },
+    {
+        "text": "How has dating app fatigue led to a resurgence of in-person social clubs and run clubs?",
+        "category": "gen-z",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "People are tired of swiping on profiles and would rather meet naturally at a weekly run club.",
+        "speakingAngle": "Highlight digital burn-out, superficial swiping, and the desire for real-world interactions."
+    },
+    {
+        "text": "What role does irony, cynicism, and surreal humor play in modern meme culture?",
+        "category": "gen-z",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Absurd internet memes serve as a psychological coping mechanism for dealing with global chaos.",
+        "speakingAngle": "Explore generational humor as a coping strategy for economic and social uncertainty."
+    },
+    {
+        "text": "Why are trade professions and vocational careers experiencing a massive popularity surge?",
+        "category": "gen-z",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Becoming an electrician means earning income right away without taking on huge student loan debt.",
+        "speakingAngle": "Contrast debt-free vocational trade stability with university tuition costs."
+    },
+    {
+        "text": "How do parasocial relationships with online influencers impact real-life social development?",
+        "category": "gen-z",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Feeling connected to a streamer can make you feel less lonely while subtly replacing real friendships.",
+        "speakingAngle": "Discuss one-way emotional bonds, screen dependency, and building real-world friendships."
+    },
+    {
+        "text": "Why has digital communication made spontaneous phone calls feel like invasive social emergencies?",
+        "category": "gen-z",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Receiving an unscheduled call feels alarming when a quick text could have communicated the same info.",
+        "speakingAngle": "Compare asynchronous convenience with the perceived pressure of live voice calls."
+    },
+    {
+        "text": "How is the traditional corporate hierarchy being challenged by younger workers entering the workforce?",
+        "category": "gen-z",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Young professionals expect transparent leadership and direct feedback over traditional deference.",
+        "speakingAngle": "Examine transparent leadership expectations, questioning authority, and flatter organizations."
+    },
+    {
+        "text": "What does the popularity of cozy gaming like Animal Crossing say about everyday stress levels?",
+        "category": "gen-z",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Low-stakes games offer a relaxing refuge from competitive careers and overwhelming news.",
+        "speakingAngle": "Frame cozy gaming as escapism, gentle design, and mental decompression."
+    },
+    {
+        "text": "How has growing up with constant surveillance and digital breadcrumbs shaped modern views on privacy?",
+        "category": "gen-z",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Having childhood milestones posted online leaves many young adults wishing they had a clean slate.",
+        "speakingAngle": "Discuss digital footprints, parental oversharing, and the desire for digital anonymity."
+    },
+    {
+        "text": "Why do younger generations embrace mental health transparency and open therapy discussions?",
+        "category": "gen-z",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Talking openly about therapy and burnout breaks the silence that older generations maintained.",
+        "speakingAngle": "Celebrate breaking mental health stigmas while guarding against self-diagnosing via social feeds."
+    },
+    {
+        "text": "What is driving the cultural shift toward sober-curious lifestyles and non-alcoholic socializing?",
+        "category": "gen-z",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Prioritizing physical fitness and avoiding Sunday hangovers makes mocktails increasingly popular.",
+        "speakingAngle": "Analyze health consciousness, wellness culture, and the rise of alcohol-free venues."
+    },
+    {
+        "text": "How is AI altering the way students learn, write, and study for school?",
+        "category": "gen-z",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Using AI as a private tutor accelerates learning, but using it to write essays hurts critical thinking.",
+        "speakingAngle": "Balance powerful personalized AI tutoring against the risk of losing foundational skills."
+    },
+    {
+        "text": "Why are vintage digital cameras and Y2K flip phones making an unexpected cultural comeback?",
+        "category": "gen-z",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Low-resolution point-and-shoot cameras take imperfect photos that feel much more authentic than smartphones.",
+        "speakingAngle": "Discuss the charm of low-tech devices, imperfect photos, and stepping away from screens."
+    },
+    {
+        "text": "How has cancel culture and public callouts shaped online expression and fear of public failure?",
+        "category": "gen-z",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "The fear of social backlash often causes people to self-censor their unconventional opinions.",
+        "speakingAngle": "Weigh public accountability against self-censorship, forgiveness, and personal growth."
+    },
+    {
+        "text": "What are the social impacts of growing up during remote learning and quarantine lockdowns?",
+        "category": "gen-z",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Missing out on normal classroom interactions made social anxiety more prevalent among young students.",
+        "speakingAngle": "Reflect on formative developmental milestones lost to isolation and subsequent social readjustment."
+    },
+    {
+        "text": "Why are traditional television cable networks completely invisible to younger viewers?",
+        "category": "gen-z",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Younger audiences want on-demand streaming and independent creators rather than rigid cable schedules.",
+        "speakingAngle": "Contrast broadcast TV programming with creator-driven platforms like YouTube and Twitch."
+    },
+    {
+        "text": "How do micro-trends on social platforms fuel excessive consumer shopping and rapid clothing disposal?",
+        "category": "gen-z",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "When fashion aesthetics change every two weeks, it encourages buying cheap, disposable clothes.",
+        "speakingAngle": "Expose the cycle of algorithmic fashion trends, consumer waste, and marketing pressure."
+    },
+    {
+        "text": "Why has financial meme culture like fractional stock trading and hype coins gained widespread traction?",
+        "category": "gen-z",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Feeling shut out of the housing market makes high-risk speculative bets feel like the only way to get ahead.",
+        "speakingAngle": "Connect risky investing trends with economic frustration and gamified trading apps."
+    },
+    {
+        "text": "How has remote digital collaboration changed how young people view working from an office?",
+        "category": "gen-z",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Commuting an hour to sit in a cubicle and answer messages feels like an outdated waste of time.",
+        "speakingAngle": "Contrast location flexibility with the challenge of building real professional networks remotely."
+    },
+    {
+        "text": "What explains the widespread fascination with astrology and tarot among modern, educated youth?",
+        "category": "gen-z",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Astrology offers a fun, reflective vocabulary for self-discovery and relationship dynamics.",
+        "speakingAngle": "Explore alternative spirituality, finding meaning, and psychological community rituals."
+    },
+    {
+        "text": "How has the definition of a traditional career ladder been replaced by a career portfolio?",
+        "category": "gen-z",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Instead of staying at one company for decades, young professionals build a mix of varied skills and projects.",
+        "speakingAngle": "Discuss frequent job changes, varied skill sets, and self-directed career paths."
+    },
+    {
+        "text": "Why is peer-to-peer visual communication replacing formal written emails in personal interaction?",
+        "category": "gen-z",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Sending a quick casual photo conveys your mood and context far better than an email.",
+        "speakingAngle": "Highlight expressive visual updates, immediate reactions, and casual digital connection."
+    },
+    {
+        "text": "How does living under the constant threat of student debt affect early life milestones?",
+        "category": "gen-z",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Carrying student loan debt forces graduates to delay buying homes and starting families.",
+        "speakingAngle": "Address economic burdens, delayed adulthood milestones, and demands for educational reform."
+    },
+    {
+        "text": "How did growing up alongside the birth of the consumer internet shape the Millennial identity?",
+        "category": "millennial",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Remembering life before smartphones gives Millennials a unique perspective on our digital world.",
+        "speakingAngle": "Contrast an analog childhood with a digital adult life, highlighting adaptable tech habits."
+    },
+    {
+        "text": "Why did the 2008 financial crisis leave such a lasting scar on career progression and wealth accumulation?",
+        "category": "millennial",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Graduating college during a recession delayed homeownership and suppressed wage growth for a decade.",
+        "speakingAngle": "Detail entry-level career stagnation, delayed home purchases, and long-term financial caution."
+    },
+    {
+        "text": "What drove the cultural obsession with hustle culture, side gigs, and performative burnout?",
+        "category": "millennial",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Working a side hustle was romanticized as ambition, when it was often just financial survival.",
+        "speakingAngle": "Critique early startup hustle culture and its eventual transition into workplace burnout."
+    },
+    {
+        "text": "Why do Millennials hold such strong emotional nostalgia for 1990s pop culture and media?",
+        "category": "millennial",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Rewatching nineties cartoons provides an escape to a time that felt safer and less chaotic.",
+        "speakingAngle": "Explore childhood comfort, simpler media formats, and the emotional power of nostalgia."
+    },
+    {
+        "text": "How did avocado toast become the symbol of generational housing affordability debates?",
+        "category": "millennial",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Blaming brunch choices for high housing prices ignored systemic real estate market shifts.",
+        "speakingAngle": "Deconstruct patronizing financial advice and contrast it with structural economic barriers."
+    },
+    {
+        "text": "What was the significance of the shift from physical CDs and DVDs to early MP3 and streaming services?",
+        "category": "millennial",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Burning custom CD mixtapes was replaced by instant music libraries with thousands of digital tracks.",
+        "speakingAngle": "Reflect on music ownership, file-sharing culture, and the evolution of streaming media."
+    },
+    {
+        "text": "How has the dream of suburban homeownership changed for Millennials entering their thirties and forties?",
+        "category": "millennial",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Many older Millennials are choosing walkable urban neighborhoods over large suburban yards.",
+        "speakingAngle": "Discuss evolving lifestyle values, transit access, and the challenges of buying property."
+    },
+    {
+        "text": "Why did Millennial design culture lean so heavily into minimalism, neutral tones, and indoor plants?",
+        "category": "millennial",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Surrounding yourself with calming plants and simple furniture creates a peaceful sanctuary from work.",
+        "speakingAngle": "Explain clean interior design aesthetics as a peaceful response to chaotic, busy lives."
+    },
+    {
+        "text": "How did the promise that 'any college degree guarantees a high-paying job' impact an entire generation?",
+        "category": "millennial",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Millions took out massive student loans only to find that generic degrees did not guarantee good jobs.",
+        "speakingAngle": "Critique the university credential narrative and discuss managing the student loan aftermath."
+    },
+    {
+        "text": "What was it like navigating early social networks like MySpace and early Facebook compared to modern feeds?",
+        "category": "millennial",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Customizing your profile with background music felt creative rather than an endless race for likes.",
+        "speakingAngle": "Contrast early web personalization and chronological feeds with modern engagement algorithms."
+    },
+    {
+        "text": "How have Millennials approached parenting differently from their Baby Boomer parents?",
+        "category": "millennial",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Modern parents prioritize emotional validation and open conversations over strict authoritarian rules.",
+        "speakingAngle": "Discuss gentle parenting, emotional communication, and breaking generational trauma."
+    },
+    {
+        "text": "Why did artisanal craft culture, from craft beer to sourdough bread, explode over the last decade?",
+        "category": "millennial",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Baking bread or brewing beer gave desk workers a tangible product they could actually touch.",
+        "speakingAngle": "Connect hands-on artisanal hobbies with the desire for concrete results outside desk work."
+    },
+    {
+        "text": "How did early smartphone adoption transform work expectations and create an always-available culture?",
+        "category": "millennial",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Getting workplace emails on your personal phone meant the workday never truly ended.",
+        "speakingAngle": "Trace the fading boundary between personal life and work, and the fight to reclaim downtime."
+    },
+    {
+        "text": "What role did Harry Potter and young adult book franchises play in shaping generational worldviews?",
+        "category": "millennial",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Growing up with these books gave millions of young readers shared moral reference points about standing against unfairness.",
+        "speakingAngle": "Analyze shared cultural narratives, moral development, and collective reading experiences."
+    },
+    {
+        "text": "Why are Millennials often referred to as the 'sandwich generation' regarding family caretaking?",
+        "category": "millennial",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Many find themselves caring for young children while simultaneously supporting aging parents.",
+        "speakingAngle": "Address the emotional and financial pressures of multi-generational caregiving."
+    },
+    {
+        "text": "How has the definition of success shifted away from corporate status toward flexibility and autonomy?",
+        "category": "millennial",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Having the freedom to manage your own schedule is now valued more than an impressive executive title.",
+        "speakingAngle": "Contrast traditional corporate ladder milestones with personal freedom and work-life balance."
+    },
+    {
+        "text": "What explains the enduring cultural love for television comedies like The Office and Friends?",
+        "category": "millennial",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Rewatching familiar workplace comedies offers a reliable comfort watch after a stressful day.",
+        "speakingAngle": "Discuss comfortable humor, predictable storylines, and the relief of familiar shows."
+    },
+    {
+        "text": "How did the rise of the gig economy and apps like Uber reshape urban lifestyles and employment?",
+        "category": "millennial",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Rideshare apps made urban travel effortless, but shifted operating costs onto independent drivers.",
+        "speakingAngle": "Balance consumer convenience with unstable wages and the lack of worker benefits."
+    },
+    {
+        "text": "Why did plant parenthood and pet ownership surge as alternatives or precursors to human children?",
+        "category": "millennial",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Nurturing houseplants and adopting dogs offers companionship without the massive cost of childcare.",
+        "speakingAngle": "Connect the joy of caretaking with practical financial constraints and apartment living."
+    },
+    {
+        "text": "What are the long-term career impacts of the 'two-year job hop' strategy common among younger professionals?",
+        "category": "millennial",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Switching companies every two years often produces far bigger salary gains than waiting for internal promotions.",
+        "speakingAngle": "Explain corporate wage loyalty penalties and the benefits of changing jobs for higher pay."
+    },
+    {
+        "text": "How did early internet blogging and forums cultivate authentic online writing communities?",
+        "category": "millennial",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Writing detailed blog posts fostered deep friendships before algorithms pushed short engagement snippets.",
+        "speakingAngle": "Celebrate the creative, non-commercial early web and long-form written forums."
+    },
+    {
+        "text": "Why do Millennials struggle with taking proper restorative time off work without feeling guilty?",
+        "category": "millennial",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Taking vacation can feel stressful when you know unread emails will pile up while you are away.",
+        "speakingAngle": "Unpack internalized productivity guilt and discuss strategies to completely unplug from work."
+    },
+    {
+        "text": "How did the craft cocktail and foodie explosion redefine social dining and evening entertainment?",
+        "category": "millennial",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "People began treating dinner as a culinary adventure to explore rather than just an ordinary meal.",
+        "speakingAngle": "Discuss experiential dining, artisanal ingredients, and socializing over great meals."
+    },
+    {
+        "text": "What is the psychological impact of having lived through multiple once-in-a-lifetime economic and global crises?",
+        "category": "millennial",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Facing multiple recessions and a pandemic makes long-term life stability feel hard to count on.",
+        "speakingAngle": "Explore building emotional resilience despite chronic economic and social uncertainty."
+    },
+    {
+        "text": "Why did wellness and self-care evolve into a massive multi-billion-dollar consumer industry?",
+        "category": "millennial",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Basic rest and self-care were repackaged into expensive skincare products and wellness retreats.",
+        "speakingAngle": "Critique the commercialization of wellness while defending the core need for self-care."
+    },
+    {
+        "text": "How has the decline of physical shopping malls transformed community spaces and public socializing?",
+        "category": "millennial",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Malls were once the primary gathering spots for teenagers, but have largely been replaced by digital channels.",
+        "speakingAngle": "Mourn the loss of physical community gathering spaces to online shopping."
+    },
+    {
+        "text": "What was the lasting cultural impact of early crowdfunding platforms like Kickstarter on product innovation?",
+        "category": "millennial",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Direct fan funding allowed creative creators to build niche products without relying on corporate approval.",
+        "speakingAngle": "Highlight democratized funding, indie product creation, and managing backer expectations."
+    },
+    {
+        "text": "How did the normalization of open therapy conversations reshape everyday workplace empathy?",
+        "category": "millennial",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Managers now recognize that supporting an employee's mental wellbeing is crucial for retention.",
+        "speakingAngle": "Praise empathetic management, psychological safety, and supportive team leadership."
+    },
+    {
+        "text": "Why do many adults find it surprisingly difficult to maintain deep friendships past their early thirties?",
+        "category": "millennial",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Balancing careers, family duties, and household chores leaves little spontaneous time for friends.",
+        "speakingAngle": "Analyze competing life demands and offer practical ways to protect adult friendships."
+    },
+    {
+        "text": "How has the rise of personal brand building on professional networks affected authentic communication?",
+        "category": "millennial",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Treating your career like a public relations campaign can make normal work interactions feel fake.",
+        "speakingAngle": "Critique performative professional branding and champion genuine, grounded collaboration."
+    },
+    {
+        "text": "Explain how the internet works as if you were explaining it to a five-year-old.",
+        "category": "eli5",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "The internet is like a giant web of roads connecting computers so they can share letters and pictures.",
+        "speakingAngle": "Use a simple road or postal system analogy to explain data transfer."
+    },
+    {
+        "text": "Explain why the sky is blue using simple, everyday language.",
+        "category": "eli5",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Sunlight has all colors mixed together, but blue light scatters like bouncy balls off the air.",
+        "speakingAngle": "Use a bouncy ball analogy to explain light scattering through atmospheric air."
+    },
+    {
+        "text": "Explain what taxes are and why communities collect them.",
+        "category": "eli5",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Taxes are like everyone chipping in coins to build shared playgrounds and fix neighborhood roads.",
+        "speakingAngle": "Use a shared neighborhood toy or clubhouse fund analogy to explain public goods."
+    },
+    {
+        "text": "Explain how vaccines help our bodies fight off illnesses.",
+        "category": "eli5",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "A vaccine shows your body a picture of a germ so your inner defenders know how to beat it.",
+        "speakingAngle": "Describe an inner superhero team practicing against a dummy target."
+    },
+    {
+        "text": "Explain what black holes in outer space are and what they do.",
+        "category": "eli5",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "A black hole is like a super-heavy slide in space where things pull together so tightly that not even light escapes.",
+        "speakingAngle": "Use a heavy bowling ball sitting on a trampoline to visualize gravity."
+    },
+    {
+        "text": "Explain why airplane wings allow heavy planes to fly in the sky.",
+        "category": "eli5",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Air rushes faster over the curved top of the wing, pushing the plane up into the sky.",
+        "speakingAngle": "Compare air pressure under curved wings to wind lifting a kite."
+    },
+    {
+        "text": "Explain what electricity is and how it powers our home appliances.",
+        "category": "eli5",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Electricity is a line of tiny energetic helpers rushing through wires to power up your light bulb.",
+        "speakingAngle": "Describe tiny charged particles marching like a disciplined row of ants."
+    },
+    {
+        "text": "Explain how trees help clean our air and create oxygen for us to breathe.",
+        "category": "eli5",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Trees breathe in the air we exhale and breathe out fresh, clean oxygen for us to use.",
+        "speakingAngle": "Describe the natural breathing exchange between humans and friendly green plants."
+    },
+    {
+        "text": "Explain what money actually is and why pieces of paper hold value.",
+        "category": "eli5",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Money is a special token that everyone agrees can be traded for toys, food, or clothes.",
+        "speakingAngle": "Compare dollar bills to arcade tokens that everyone trusts and agrees to use."
+    },
+    {
+        "text": "Explain why we have seasons like winter, spring, summer, and fall.",
+        "category": "eli5",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "The Earth tilts toward the warm sun in summer and leans away from it in chilly winter.",
+        "speakingAngle": "Use a spinning, tilted spinning top leaning toward a warm lamp."
+    },
+    {
+        "text": "Explain what computer coding is and how programmers write software.",
+        "category": "eli5",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Coding is writing a clear recipe book full of instructions that a robot computer follows step-by-step.",
+        "speakingAngle": "Use a recipe card analogy for baking cookies to explain software algorithms."
+    },
+    {
+        "text": "Explain how gravity keeps our feet firmly planted on the ground.",
+        "category": "eli5",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Earth is like a giant magnet that gently hugs everything down so we don't float into space.",
+        "speakingAngle": "Describe Earth giving everything a warm, constant hug toward its center."
+    },
+    {
+        "text": "Explain what happens when an earthquake shakes the ground.",
+        "category": "eli5",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Earth's crust is made of puzzle pieces that sometimes bump into each other and shake.",
+        "speakingAngle": "Use giant sliding puzzle pieces snapping past each other on a table."
+    },
+    {
+        "text": "Explain why we dream when we fall asleep at night.",
+        "category": "eli5",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "When you sleep, your brain plays movie clips to organize all your memories from the day.",
+        "speakingAngle": "Describe the brain tidying up a messy toy room and filing away memories."
+    },
+    {
+        "text": "Explain how a refrigerator keeps our food cold inside a warm kitchen.",
+        "category": "eli5",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "The fridge uses a special cooling liquid to soak up heat from inside and pump it out into the room.",
+        "speakingAngle": "Describe a heat sponge soaking up warm air and squeezing it out behind the fridge."
+    },
+    {
+        "text": "Explain what causes thunder and lightning during a rainstorm.",
+        "category": "eli5",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Clouds rub together like socks on carpet to make a giant spark, and the loud boom is the air snapping.",
+        "speakingAngle": "Use static electricity sparks from cozy socks to explain atmospheric lightning."
+    },
+    {
+        "text": "Explain how mirrors reflect our faces back at us.",
+        "category": "eli5",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "A mirror is super smooth shiny glass that bounces light straight back into your eyes like a tennis ball.",
+        "speakingAngle": "Use a rubber ball bouncing off a flat wall to explain light reflection."
+    },
+    {
+        "text": "Explain what a bank does with the money people deposit.",
+        "category": "eli5",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "The bank keeps your money safe and lends some to neighbors to buy homes, paying you a tiny thank-you bonus.",
+        "speakingAngle": "Describe a community vault that helps neighbors build houses with borrowed savings."
+    },
+    {
+        "text": "Explain how search engines find information on the web so quickly.",
+        "category": "eli5",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Search engines have super-fast digital spiders that read books in a giant library to find the right page.",
+        "speakingAngle": "Describe helpful digital spiders organizing an enormous library index."
+    },
+    {
+        "text": "Explain what genes and DNA are and how they decide our eye color.",
+        "category": "eli5",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "DNA is a tiny instruction booklet inside your body that chose your hair texture and eye color.",
+        "speakingAngle": "Use an instruction booklet for building toy block sets to explain genetic traits."
+    },
+    {
+        "text": "Explain what causes waves to form in the ocean.",
+        "category": "eli5",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Wind blows across the top of the water, pushing the surface into rolling ripples that grow into waves.",
+        "speakingAngle": "Compare ocean wind to blowing across a warm bowl of soup to make ripples."
+    },
+    {
+        "text": "Explain how microchips process information inside a phone.",
+        "category": "eli5",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "A microchip has millions of microscopic light switches that flip on and off to calculate answers.",
+        "speakingAngle": "Describe billions of tiny light switches clicking on and off to solve puzzles."
+    },
+    {
+        "text": "Explain what artificial intelligence is and how it learns.",
+        "category": "eli5",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "AI is like a computer reading millions of picture books until it can spot a cat on its own.",
+        "speakingAngle": "Compare machine learning to a toddler practicing flashcards until recognizing patterns."
+    },
+    {
+        "text": "Explain what cryptocurrency is without using complex finance terms.",
+        "category": "eli5",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "It is digital play money tracked on a shared chalkboard that everyone can see but no one can erase.",
+        "speakingAngle": "Use a transparent public playground chalkboard to explain decentralized digital records."
+    },
+    {
+        "text": "Explain how our ears turn sound vibrations into music we can hear.",
+        "category": "eli5",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Sound wiggles the air, bumps a tiny drum inside your ear, and sends a musical note to your brain.",
+        "speakingAngle": "Describe a microscopic drum kit vibrating inside our ears to create sound."
+    },
+    {
+        "text": "Explain how telescopes can look at stars that are billions of miles away.",
+        "category": "eli5",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Telescopes use curved magnifying glasses to gather faint starlight and make it look big and bright.",
+        "speakingAngle": "Describe a light-bucket catching distant starlight to make it visible."
+    },
+    {
+        "text": "Explain why onions make people cry when they chop them with a knife.",
+        "category": "eli5",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Cutting an onion releases a puff of invisible gas that stings your eyes, making them tear up to wash it away.",
+        "speakingAngle": "Describe the onion's natural defense shield tickling our tear ducts."
+    },
+    {
+        "text": "Explain what space satellites do as they orbit the Earth.",
+        "category": "eli5",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Satellites are metal helpers floating in space, taking weather photos and bouncing phone calls around the world.",
+        "speakingAngle": "Describe floating sky helpers passing messages like players in a game of catch."
+    },
+    {
+        "text": "Explain how our immune system fights off a common cold.",
+        "category": "eli5",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Your white blood cells act like brave castle guards who round up germ invaders and push them out.",
+        "speakingAngle": "Use a castle defense analogy with brave guards protecting the kingdom."
+    },
+    {
+        "text": "Explain what climate change means for the planet in simple terms.",
+        "category": "eli5",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Earth is wrapped in a blanket of air, and adding too much pollution makes that blanket trap too much heat.",
+        "speakingAngle": "Use a cozy blanket analogy that becomes uncomfortably hot when extra layers are added."
+    },
+    {
+        "text": "What if cats actually rule the world and humans are just their hired staff?",
+        "category": "conspiracy",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "They convinced us to provide free room and board while doing zero work in exchange.",
+        "speakingAngle": "Present a playful argument showing how cats have trained humans to serve them."
+    },
+    {
+        "text": "Pigeons are actually government surveillance drones recharging on public power lines.",
+        "category": "conspiracy",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Notice how they always perch on overhead electrical wires right after watching park benches.",
+        "speakingAngle": "Lean playfully into the classic internet parody that urban birds are electronic spies."
+    },
+    {
+        "text": "Socks that disappear in the dryer are escaping into a parallel textile dimension.",
+        "category": "conspiracy",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "You put in twelve pairs and get back twenty-three singles; that missing fabric is traveling somewhere.",
+        "speakingAngle": "Invent an elaborate cosmic portal theory explaining missing laundry items."
+    },
+    {
+        "text": "What if grocery store carts have one squeaky, jammed wheel on purpose?",
+        "category": "conspiracy",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Slowing down your cart makes you look at high-profit margin displays in the center aisle.",
+        "speakingAngle": "Frame wobbly wheels as a supermarket design trick to slow shoppers down."
+    },
+    {
+        "text": "What if dentists secretly invented hard candy to guarantee steady patient appointments?",
+        "category": "conspiracy",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Nothing boosts demand for dental fillings quite like sticky caramels and lollipops.",
+        "speakingAngle": "Playfully uncover a secret alliance between candy makers and dental clinics."
+    },
+    {
+        "text": "Alarm clocks were invented to stop humans from discovering our true dream powers.",
+        "category": "conspiracy",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Right as you figure out how to fly in your dream, that morning buzzer pulls you back to reality.",
+        "speakingAngle": "Argue that the morning buzzer prevents us from unlocking dream world superpowers."
+    },
+    {
+        "text": "What if house plants are slowly whispering secrets to each other through their roots?",
+        "category": "conspiracy",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "The ficus in the corner has witnessed your conversations and is reporting them to the fern.",
+        "speakingAngle": "Treat living room plants as an ancient botanical intelligence network."
+    },
+    {
+        "text": "Elevator close-door buttons are entirely fake and installed just to give people false hope.",
+        "category": "conspiracy",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Pressing that button never closes the door any faster, but it gives you a sense of control.",
+        "speakingAngle": "Expose the close-door button as an intentional psychological placebo."
+    },
+    {
+        "text": "What if ice cream trucks play cheerful music only when they run completely out of treats?",
+        "category": "conspiracy",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "It is the perfect excuse parents use to avoid buying popsicles on a hot afternoon.",
+        "speakingAngle": "Defend the classic parental myth that neighborhood jingles signal empty freezers."
+    },
+    {
+        "text": "Clothing manufacturers make women's pockets tiny on purpose to force handbag purchases.",
+        "category": "conspiracy",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Shrinking jeans pockets creates an artificial need to buy expensive tote bags and purses.",
+        "speakingAngle": "Expose a fashionable retail conspiracy designed to boost purse sales."
+    },
+    {
+        "text": "What if yawns are contagious because humans are running a peer-to-peer system reboot?",
+        "category": "conspiracy",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "When one person yawns, nearby brains sync up and restart their internal software together.",
+        "speakingAngle": "Describe contagious yawning as a synchronized biological software update."
+    },
+    {
+        "text": "What if highway traffic jams are secretly orchestrated by billboard advertising companies?",
+        "category": "conspiracy",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Creating a slowdown right in front of a giant roadside ad guarantees thousands of impressions.",
+        "speakingAngle": "Link unexpected highway bottlenecks to billboard view rates and advertising profits."
+    },
+    {
+        "text": "The Bermuda Triangle is just where sea monsters go to enjoy their private vacations.",
+        "category": "conspiracy",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Ancient ocean creatures established a private resort where human ships are not allowed.",
+        "speakingAngle": "Rebrand the Bermuda Triangle as a peaceful tropical spa for legendary sea monsters."
+    },
+    {
+        "text": "What if automatic faucets can sense when you have soap on your hands and shut off on purpose?",
+        "category": "conspiracy",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "The sensor works fine until you lather up, then forces you to wave frantically for water.",
+        "speakingAngle": "Describe infrared sink sensors having a mischievous personality."
+    },
+    {
+        "text": "What if mirrors reflect us backwards because our reflections are trying to confuse us?",
+        "category": "conspiracy",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Your mirror self mimics your moves, waiting for the one second you blink to look away.",
+        "speakingAngle": "Build a lighthearted, slightly spooky theory about alternative lives inside mirrors."
+    },
+    {
+        "text": "The moon is actually made of aged provolone cheese, but astronauts covered it up.",
+        "category": "conspiracy",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Space missions brought back cheddar samples, but kept it quiet to prevent an international cheese rush.",
+        "speakingAngle": "Revive the classic nursery rhyme idea with mock-serious scientific cover-up details."
+    },
+    {
+        "text": "What if lost car keys intentionally move around to make sure you tidy your apartment?",
+        "category": "conspiracy",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Keys hide between sofa cushions to force you to vacuum the living room before leaving.",
+        "speakingAngle": "Give everyday inanimate objects mischievous personalities that teach us life lessons."
+    },
+    {
+        "text": "What if weather forecasts are made inaccurate on purpose so movie theaters stay full on rainy days?",
+        "category": "conspiracy",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Predicting unexpected rain drives people indoors directly into shopping malls and cinema seats.",
+        "speakingAngle": "Link weekend rain forecasts to entertainment industry profits."
+    },
+    {
+        "text": "Autocorrect intentionally changes your words to keep your daily texts entertaining.",
+        "category": "conspiracy",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Changing serious words into silly typos is software's way of lightening up our digital conversations.",
+        "speakingAngle": "Argue that autocorrect algorithms have an intentional comedic sense of humor."
+    },
+    {
+        "text": "What if gym mirrors are slightly curved to make you think you need more protein shakes?",
+        "category": "conspiracy",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Changing the glass curvature keeps gym members buying monthly workout passes and supplements.",
+        "speakingAngle": "Expose gym locker room glass design as a clever fitness club marketing trick."
+    },
+    {
+        "text": "Modern smartphones listen to us just to suggest recipes we are too tired to cook.",
+        "category": "conspiracy",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "You mention pasta once, and suddenly your feed shows twenty-step artisanal lasagna recipes.",
+        "speakingAngle": "Playfully roast personalized ad algorithms as culinary guilt trips."
+    },
+    {
+        "text": "What if umbrella companies are secretly seeding clouds to create unexpected downpours?",
+        "category": "conspiracy",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Nothing drives street-corner umbrella sales quite like sudden rain showers right at rush hour.",
+        "speakingAngle": "Propose an umbrella cartel controlling local rain clouds for quick sales."
+    },
+    {
+        "text": "Shoelaces come untied on purpose to force busy humans to pause, take a breath, and slow down.",
+        "category": "conspiracy",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Your sneakers come undone on the sidewalk as a physical reminder to take a mindful break.",
+        "speakingAngle": "Reframe annoying loose knots as a built-in mindfulness reminder from our footwear."
+    },
+    {
+        "text": "What if USB plugs are built with four dimensions, which is why it takes three tries to plug them in?",
+        "category": "conspiracy",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "It is never right on the first try, nor the second; it only works on the third flip.",
+        "speakingAngle": "Use theoretical physics humor to explain why USB ports are notoriously hard to plug in."
+    },
+    {
+        "text": "Hotel room bed pillows are stuffed with sleepy dream dust to keep guests ordering room service.",
+        "category": "conspiracy",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "The pillows are so soft you sleep in past ten and end up ordering late breakfast in bed.",
+        "speakingAngle": "Describe hotel bed comfort as a calculated strategy to sell pricey morning room service."
+    },
+    {
+        "text": "What if ceiling fans are trying to learn Morse code through their subtle wobbles?",
+        "category": "conspiracy",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "That soft rhythmic clicking sound from the fan blades is actually signaling the kitchen toaster.",
+        "speakingAngle": "Present shaky household ceiling fans as an encrypted communication network."
+    },
+    {
+        "text": "Receipt printers in grocery stores run extra long just to help paper companies stay profitable.",
+        "category": "conspiracy",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Buying a pack of gum prints out a three-foot scroll of coupons you will never use.",
+        "speakingAngle": "Roast absurdly long pharmacy receipts as a way to support thermal paper mills."
+    },
+    {
+        "text": "What if cats invented the internet just to turn themselves into global digital celebrities?",
+        "category": "conspiracy",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Before the web they were ordinary pets, but now they are viral superstars with millions of fans.",
+        "speakingAngle": "Claim early web protocols were designed by felines for viral meme fame."
+    },
+    {
+        "text": "Airplane peanuts and pretzels are salted to increase drink sales on long flights.",
+        "category": "conspiracy",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Handing out dry salty snacks makes everyone on the plane thirsty right when the drink cart arrives.",
+        "speakingAngle": "Frame free airline snacks as a strategic sales tactic for overpriced canned drinks."
+    },
+    {
+        "text": "What if WiFi signals drop right during the final scene of a movie to test your patience?",
+        "category": "conspiracy",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "The connection streams fine for two hours, then buffers right as the killer is revealed.",
+        "speakingAngle": "Describe household internet routers as comedic devices testing our emotional limits."
+    },
+    {
+        "text": "Roast the modern culture of sending three-minute unedited voice notes for simple questions.",
+        "category": "roast",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "I asked if you were free for dinner, not for a private podcast episode featuring your windy walk home.",
+        "speakingAngle": "Deliver a fast, sharp roast targeting the rambling, self-indulgent nature of voice notes."
+    },
+    {
+        "text": "Roast the trend of people taking thirty photos of their brunch before allowing anyone to eat.",
+        "category": "roast",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Your poached eggs are freezing cold while you stand on a chair trying to get the perfect lighting.",
+        "speakingAngle": "Poke fun at staging social media food photos while everyone at the table waits hungry."
+    },
+    {
+        "text": "Roast corporate jargon like 'circle back,' 'synergy,' and 'touch base offline.'",
+        "category": "roast",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Saying we should 'align our bandwidth' is a fancy corporate way of saying we are both confused.",
+        "speakingAngle": "Mock empty business phrases used to sound productive without saying anything real."
+    },
+    {
+        "text": "Roast the absurdly long paper receipts printed out by pharmacies for single items.",
+        "category": "roast",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "I bought a tube of lip balm and received enough paper receipt to carpet my living room.",
+        "speakingAngle": "Humorously criticize giant paper coupons printed for small, everyday purchases."
+    },
+    {
+        "text": "Roast wireless earbuds for constantly slipping out of our ears and falling into tiny gaps.",
+        "category": "roast",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "We traded wires for two tiny plastic beans whose main hobby is jumping down subway grates.",
+        "speakingAngle": "Roast tiny, expensive earbuds that seem designed to get lost at the worst times."
+    },
+    {
+        "text": "Roast the experience of trying to cancel an online gym membership in person.",
+        "category": "roast",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Joining took two clicks online, but canceling requires an in-person meeting with a manager on a Tuesday.",
+        "speakingAngle": "Mock the endless, annoying hurdles gyms create to stop people from canceling memberships."
+    },
+    {
+        "text": "Roast unboxing videos where people spend ten minutes slowly peeling plastic wrappers off gadgets.",
+        "category": "roast",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "We are watching adults whisper into microphones while gently opening cardboard boxes like relics.",
+        "speakingAngle": "Tease the dramatic, drawn-out rituals of online unboxing and whispering content."
+    },
+    {
+        "text": "Roast streaming services for splitting content across six different monthly paid subscriptions.",
+        "category": "roast",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "We got rid of cable to save money, and now we pay more for seven separate streaming apps.",
+        "speakingAngle": "Roast the subscription fatigue caused by every media network launching its own service."
+    },
+    {
+        "text": "Roast hotel rooms that replace normal bathroom doors with translucent sliding glass panels.",
+        "category": "roast",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Nothing tests a friendship like a sliding frosted glass bathroom door with a two-inch gap.",
+        "speakingAngle": "Critique trendy, impractical hotel designs that sacrifice bathroom privacy for style."
+    },
+    {
+        "text": "Roast automated self-checkout registers that shout 'unexpected item in bagging area.'",
+        "category": "roast",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "I am scanning my own groceries, doing your work, and the machine starts yelling at me for a light bag.",
+        "speakingAngle": "Vent with humor about overly sensitive self-checkout weight sensors that hold up the line."
+    },
+    {
+        "text": "Roast modern minimalist gray home renovations that make houses look like office cubicles.",
+        "category": "roast",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "They stripped out century-old dark wood and painted everything hospital gray to look modern.",
+        "speakingAngle": "Mock sterile, boring home renovation trends that strip away color and cozy personality."
+    },
+    {
+        "text": "Roast LinkedIn influencers who turn an ordinary morning coffee run into a lesson on leadership.",
+        "category": "roast",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "The barista spelled my name wrong, which taught me five essential keys to business resilience.",
+        "speakingAngle": "Parody the dramatic, self-aggrandizing tone of viral thought-leadership posts."
+    },
+    {
+        "text": "Roast kitchen air fryers that promise to solve every cooking problem while taking over your counter.",
+        "category": "roast",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "It is just a small convection oven with good marketing that takes up half your kitchen counter.",
+        "speakingAngle": "Tease how air fryers became a cult obsession despite being miniature countertop ovens."
+    },
+    {
+        "text": "Roast electric scooters left scattered across downtown sidewalks like obstacle course hurdles.",
+        "category": "roast",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Walking down the sidewalk now feels like an obstacle course of abandoned, beeping electric scooters.",
+        "speakingAngle": "Humorously target clutter, careless parking, and downtown sidewalk scooter hazards."
+    },
+    {
+        "text": "Roast QR code menus in restaurants that make you load a website just to see a drink list.",
+        "category": "roast",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "I went out for dinner to escape my phone, and now I need two bars of service to read the appetizers.",
+        "speakingAngle": "Critique restaurants replacing real physical menus with clunky mobile websites."
+    },
+    {
+        "text": "Roast the modern productivity trend of waking up at 4:00 AM to take freezing cold showers.",
+        "category": "roast",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "You are shivering in an ice bath before dawn just to prove to the internet that you have discipline.",
+        "speakingAngle": "Poke fun at extreme, miserable productivity routines that turn life into an endurance test."
+    },
+    {
+        "text": "Roast oversized giant water bottles that look like small fire hydrants on office desks.",
+        "category": "roast",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "You are lugging a gallon of water around like you are crossing the Sahara instead of sitting at a desk.",
+        "speakingAngle": "Roast the trend of carrying enormous gallon water jugs for everyday desk work."
+    },
+    {
+        "text": "Roast modern high-tech gym workout clothes that cost hundreds of dollars just to sweat in.",
+        "category": "roast",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Spending two hundred dollars on gym leggings just to sit on an exercise bike looking at your phone.",
+        "speakingAngle": "Mock expensive athletic fashion that gets purchased more for status than intense workouts."
+    },
+    {
+        "text": "Roast automatic soap dispensers in restrooms that require twenty frantic hand waves to work.",
+        "category": "roast",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Standing at the sink waving your hands like a wizard trying to summon a single drop of soap.",
+        "speakingAngle": "Act out the awkward hand-waving dance required to trigger stubborn restroom sensors."
+    },
+    {
+        "text": "Roast social media fitness influencers who hawk useless detox teas and greens powders.",
+        "category": "roast",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Drinking swamp-green powdered grass will not replace eight hours of sleep and eating real vegetables.",
+        "speakingAngle": "Roast expensive, foul-tasting supplement powders promoted by sponsored wellness creators."
+    },
+    {
+        "text": "Roast over-engineered luxury smart refrigerators with front touchscreens that tell you when you need milk.",
+        "category": "roast",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "My fridge needs a software update before I can open the crisper drawer to grab an apple.",
+        "speakingAngle": "Humorously target unnecessary digital screens on basic cooling home appliances."
+    },
+    {
+        "text": "Roast modern film trailers that show the entire movie plot in two and a half minutes.",
+        "category": "roast",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Thanks for showing the twists and ending in the preview; now I can save twenty dollars on tickets.",
+        "speakingAngle": "Criticize movie trailers that spoil all the best jokes, plot twists, and endings."
+    },
+    {
+        "text": "Roast the ritual of workplace team-building icebreakers that force adults into awkward games.",
+        "category": "roast",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Nothing brings our accounting team together like throwing a tennis ball while naming our favorite fruit.",
+        "speakingAngle": "Roast forced corporate icebreakers that make adults uncomfortable in the name of fun."
+    },
+    {
+        "text": "Roast luxury branded phone cases that cost half the price of the actual phone.",
+        "category": "roast",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Paying a luxury brand two hundred dollars for a piece of molded plastic to wrap around your smartphone.",
+        "speakingAngle": "Mock paying designer prices for cheap plastic phone accessories with logos."
+    },
+    {
+        "text": "Roast modern cars that replace every simple physical dashboard knob with a fingerprint-covered touchscreen.",
+        "category": "roast",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "I just want to adjust the heater without tapping through three menus while driving at highway speed.",
+        "speakingAngle": "Roast car manufacturers who bury simple climate controls inside dangerous, distracting touchscreens."
+    },
+    {
+        "text": "Roast decorative throw pillows that cover beds so completely there is nowhere left to lie down.",
+        "category": "roast",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Every night requires fifteen minutes of tossing sixteen decorative cushions onto the bedroom floor.",
+        "speakingAngle": "Tease the uselessness of covering beds and couches with mountains of decorative pillows."
+    },
+    {
+        "text": "Roast artisanal chocolate shops that add sea salt and cracked pepper to every single treat.",
+        "category": "roast",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Sometimes I just want chocolate, not a handful of crunchy sea salt crystals scratching my teeth.",
+        "speakingAngle": "Roast fancy sweets brands for overcomplicating simple comfort desserts with weird seasonings."
+    },
+    {
+        "text": "Roast the ritual of holiday airport travel with packed security lines and shoes in plastic bins.",
+        "category": "roast",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Nothing says holiday spirit like shuffling across airport linoleum in socks holding your laptop.",
+        "speakingAngle": "Roast the chaotic, stressful experience of holiday airport security checkpoints."
+    },
+    {
+        "text": "Roast home smart speakers that wake up and answer questions nobody in the room ever asked.",
+        "category": "roast",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "We were laughing about dinner and the speaker chimed in to tell us the capital of Nebraska.",
+        "speakingAngle": "Humorously target invasive smart speakers interrupting quiet living room conversations."
+    },
+    {
+        "text": "Roast modern multi-step skincare routines that require applying twelve different chemical serums nightly.",
+        "category": "roast",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Going to bed looking like a glazed pastry after spending forty-five minutes layering various acids on your cheeks.",
+        "speakingAngle": "Mock excessive, expensive multi-step nighttime skincare regimens with comedic imagery."
+    },
+    {
+        "text": "Defend the take that wearing wet socks inside cold winter boots is actually refreshing.",
+        "category": "worst-take",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "The squishing sensation keeps your feet awake and alert while you walk through the slush.",
+        "speakingAngle": "Argue with full confidence that damp, cold footwear improves foot circulation and alertness."
+    },
+    {
+        "text": "Defend the take that movies should be played on mute with only auto-generated captions.",
+        "category": "worst-take",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Muting the audio leaves room for your imagination to invent the best voices for the characters.",
+        "speakingAngle": "Claim that watching silent films with subtitles makes storytelling more artistic and personal."
+    },
+    {
+        "text": "Defend the take that warm, flat soda is far superior to cold, fizzy soda.",
+        "category": "worst-take",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Carbonation just burns your tongue; letting soda go flat lets you appreciate the pure sugar syrup.",
+        "speakingAngle": "Insist that carbonation ruins drinks and that room-temperature flat syrup tastes best."
+    },
+    {
+        "text": "Defend the take that traffic jams are the greatest daily opportunity for mental relaxation.",
+        "category": "worst-take",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Being stuck in bumper-to-bumper traffic gives you a guilt-free excuse to listen to radio shows.",
+        "speakingAngle": "Frame being stranded in gridlock as a peaceful, relaxing meditation session."
+    },
+    {
+        "text": "Defend the take that eating unpeeled whole kiwis with the brown fuzzy skin is best.",
+        "category": "worst-take",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "The fuzzy skin provides essential dietary fiber and gives the fruit an enjoyable rough texture.",
+        "speakingAngle": "Champion the hairy outer texture of kiwis as an essential part of the fruit."
+    },
+    {
+        "text": "Defend the take that email subject lines should always be left completely blank.",
+        "category": "worst-take",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "A blank subject line adds mystery and makes the recipient open your note right away.",
+        "speakingAngle": "Argue that blank subjects build suspense and improve workplace email open rates."
+    },
+    {
+        "text": "Defend the take that beds should never be made because crumpled sheets sleep better.",
+        "category": "worst-take",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Making a bed just traps moisture, while tangled blankets create a natural nest to climb into.",
+        "speakingAngle": "Praise messy sheets as an authentic, comforting nest that saves morning time."
+    },
+    {
+        "text": "Defend the take that brushing your teeth with warm water is vastly superior to cold water.",
+        "category": "worst-take",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Warm water soothes the gums and creates a much richer toothpaste lather while brushing.",
+        "speakingAngle": "Make a mock-serious case that warm tap water turns brushing into a luxurious spa experience."
+    },
+    {
+        "text": "Defend the take that all songs should end abruptly mid-sentence instead of fading out.",
+        "category": "worst-take",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Cutting off mid-chorus leaves the listener wanting more and prevents repetitive music outros.",
+        "speakingAngle": "Argue that sudden endings shock listeners and show real artistic boldness."
+    },
+    {
+        "text": "Defend the take that spoilers make watching a movie much more enjoyable the first time.",
+        "category": "worst-take",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Knowing the killer from the start lets you appreciate the clever background clues you would have missed.",
+        "speakingAngle": "Insist that knowing the ending removes anxiety and helps you appreciate the directing."
+    },
+    {
+        "text": "Defend the take that stepping on small toy building blocks is an effective reflex workout.",
+        "category": "worst-take",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Stepping on sharp plastic toys stimulates foot pressure points and keeps your walking balance sharp.",
+        "speakingAngle": "Rebrand painful toy accidents as beneficial barefoot reflexology and agility training."
+    },
+    {
+        "text": "Defend the take that reply-all email chains with hundreds of people build corporate team spirit.",
+        "category": "worst-take",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Seeing hundreds of coworkers say thanks shows how unified the company culture really is.",
+        "speakingAngle": "Praise accidental company-wide email threads as vibrant displays of team unity."
+    },
+    {
+        "text": "Defend the take that lukewarm coffee is far more drinkable than steaming hot or iced coffee.",
+        "category": "worst-take",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Lukewarm coffee lets you chug the caffeine quickly without burning your tongue or getting brain freeze.",
+        "speakingAngle": "Argue that room-temperature coffee offers maximum caffeine efficiency with zero waiting."
+    },
+    {
+        "text": "Defend the take that airline middle seats are the most desirable seats on an airplane.",
+        "category": "worst-take",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "The middle seat lets you talk to two neighbors and gives you access to both center armrests.",
+        "speakingAngle": "Make the absurd claim that being squeezed between strangers offers prime social positioning."
+    },
+    {
+        "text": "Defend the take that walking through heavy rain without an umbrella shows real confidence.",
+        "category": "worst-take",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Carrying an umbrella shows fear of nature, while getting soaked proves you can handle adversity.",
+        "speakingAngle": "Frame getting drenched in downpours as a stoic show of toughness and resilience."
+    },
+    {
+        "text": "Defend the take that all books should be read starting with the final chapter first.",
+        "category": "worst-take",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Knowing the ending right away turns reading the book into an interesting detective puzzle.",
+        "speakingAngle": "Claim that reading backwards shows true intellect by focusing on how the plot develops."
+    },
+    {
+        "text": "Defend the take that phone battery notifications at one percent are thrilling and fun.",
+        "category": "worst-take",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Racing to finish a text before your phone dies adds exciting stakes to your everyday afternoon.",
+        "speakingAngle": "Treat near-dead battery life as an exhilarating, high-stakes game against the clock."
+    },
+    {
+        "text": "Defend the take that peeling a banana from the bottom and eating strings first is best.",
+        "category": "worst-take",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Peeling from the bottom is how wild monkeys do it, proving it is the natural way to eat fruit.",
+        "speakingAngle": "Insist that eating the stringy fibers first shows superior fruit appreciation."
+    },
+    {
+        "text": "Defend the take that taking freezing cold baths in winter is the ultimate home luxury.",
+        "category": "worst-take",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Hot baths make you lethargic, while an icy tub in winter wakes up your nervous system.",
+        "speakingAngle": "Defend icy baths in freezing weather as an invigorating mental and physical ritual."
+    },
+    {
+        "text": "Defend the take that airport layovers under six hours are an inexcusable waste of time.",
+        "category": "worst-take",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "A twelve-hour layover lets you sleep on terminal carpets and really explore every duty-free shop.",
+        "speakingAngle": "Argue that spending half a day stranded in airport terminals is a fun travel adventure."
+    },
+    {
+        "text": "Defend the take that soggy cereal is delicious and vastly superior to crunchy cereal.",
+        "category": "worst-take",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Letting cornflakes sit in milk turns breakfast into a smooth, comforting porridge texture.",
+        "speakingAngle": "Praise soggy, mushy cereal as the comforting ideal texture for breakfast foods."
+    },
+    {
+        "text": "Defend the take that every video meeting should require participants to stand on one foot.",
+        "category": "worst-take",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Balancing on one leg keeps meetings under ten minutes because people get tired of standing.",
+        "speakingAngle": "Propose physical balancing tests as the ultimate tool to end long corporate meetings."
+    },
+    {
+        "text": "Defend the take that wearing full business suits to the beach should be encouraged.",
+        "category": "worst-take",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "A three-piece wool suit shields your skin from sunburn and looks dignified while strolling the sand.",
+        "speakingAngle": "Argue with seriousness that formal business suits bring needed class and sun safety to beaches."
+    },
+    {
+        "text": "Defend the take that forgetting someone's name right after an introduction is a compliment.",
+        "category": "worst-take",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Forgetting their name shows you were focused on their personality rather than a label.",
+        "speakingAngle": "Defend forgetting names as proof that you were paying attention to deeper personal vibes."
+    },
+    {
+        "text": "Defend the take that slow elevators make office buildings much more productive.",
+        "category": "worst-take",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "A slow elevator ride forces employees to rest their minds before stepping onto the office floor.",
+        "speakingAngle": "Reframe slow elevators as valuable moments for quiet reflection during the workday."
+    },
+    {
+        "text": "Defend the take that using speakerphone in quiet public cafes is polite behavior.",
+        "category": "worst-take",
+        "difficulty": "hard",
+        "language": "en",
+        "exampleSentence": "Broadcasting your phone call lets nearby patrons follow the story instead of hearing half the talk.",
+        "speakingAngle": "Claim that public speakerphone conversations keep the room engaged with clear context."
+    },
+    {
+        "text": "Defend the take that putting hot sauce on fresh vanilla ice cream is a culinary masterpiece.",
+        "category": "worst-take",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "The spicy pepper heat balances out the sweet cream, waking up your tired taste buds.",
+        "speakingAngle": "Defend pairing fiery chili peppers with cold vanilla cream as refined culinary art."
+    },
+    {
+        "text": "Defend the take that setting seven alarms three minutes apart is the best way to wake up.",
+        "category": "worst-take",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Waking up and falling back asleep six times gives you the wonderful joy of sleeping in repeatedly.",
+        "speakingAngle": "Argue that repeatedly snoozing alarms gives you multiple bursts of morning sleep joy."
+    },
+    {
+        "text": "Defend the take that wearing sunglasses indoors at night makes you think more clearly.",
+        "category": "worst-take",
+        "difficulty": "medium",
+        "language": "en",
+        "exampleSentence": "Dark lenses cut out harsh indoor glare, allowing your mind to focus deeply on your thoughts.",
+        "speakingAngle": "Claim dark sunglasses inside help you maintain deep, uninterrupted focus."
+    },
+    {
+        "text": "Defend the take that wrapping all holiday gifts in plain brown grocery bags is the pinnacle of luxury.",
+        "category": "worst-take",
+        "difficulty": "easy",
+        "language": "en",
+        "exampleSentence": "Crinkly brown paper bags feel earthy and honest, making shiny wrapping paper look cheap.",
+        "speakingAngle": "Frame plain grocery paper sacks as rustic, high-end packaging that outshines decorative paper."
+    }
+]
